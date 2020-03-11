@@ -1,0 +1,972 @@
+Yu, Angela J.	COGS 1 - Introduction to Cognitive Sci (A)	FA19	489	407	89.3 %	88.0 %	3.56	B+ (3.57)	B+ (3.34)
+Scott, Taylor Jackson	COGS 10 - Cognitv Consequence/Technology (A)	FA19	295	257	95.3 %	98.8 %	3.80	A- (3.76)	A- (3.80)
+Kirsh, David Joel	COGS 100 - Cyborgs Now and in the Future (A)	FA19	229	161	68.8 %	72.6 %	4.91	B+ (3.31)	B+ (3.33)
+Hoffman, Drew Ellen	COGS 101A - Sensation and Perception (A)	FA19	272	208	94.1 %	96.1 %	4.15	B+ (3.51)	B+ (3.33)
+Barrera, Steven James	COGS 101B - Learning, Memory and Attention (A)	FA19	197	100	96.8 %	98.9 %	4.71	B+ (3.37)	B (3.01)
+Scott, Taylor Jackson	COGS 102A - Cognitive Perspectives (A)	FA19	139	120	87.5 %	98.3 %	4.58	B+ (3.54)	B+ (3.63)
+Rangel, Lara M	COGS 107A - Neuroanatomy and Physiology (A)	FA19	504	235	87.6 %	96.0 %	6.33	B+ (3.42)	B+ (3.44)
+Voytek, Bradley Thomas	COGS 108 - Data Science in Practice (A)	FA19	434	170	93.8 %	95.7 %	4.84	A- (3.74)	A- (3.73)
+Mukamel, Eran A	COGS 109 - Modeling & Data Analysis (A)	FA19	108	81	91.3 %	92.3 %	6.83	B+ (3.42)	B+ (3.35)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA19	54	25	81.8 %	81.8 %	5.64	B (3.21)	B (3.00)
+De Sa, Virginia	COGS 118B - Intro to Machine Learning II (A)	FA19	170	52	90.4 %	90.4 %	7.05	B+ (3.31)	B+ (3.64)
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	FA19	22	11	90.9 %	72.7 %	4.14	A- (3.91)	A- (3.86)
+Dow, Steven P	COGS 123 - Social Computing (A)	FA19	57	34	90.9 %	90.6 %	4.85	B+ (3.68)	B+ (3.58)
+Guo, Philip J	COGS 124 - HCI Technical Systems Research (A)	FA19	14	11	100.0 %	100.0 %	3.10	A- (3.90)	N/A
+Hollan, James D.	COGS 126 - Human-Computer Interaction (A)	FA19	26	4	66.7 %	66.7 %	6.00	B- (2.75)	B (3.10)
+Guo, Philip J	COGS 127 - Design Human-Data Interactions (A)	FA19	82	36	97.1 %	100.0 %	6.27	A- (3.83)	A- (3.83)
+Johnson, Christine M.	COGS 13 - Fld Methods: Cognition in Wild (A)	FA19	194	92	39.3 %	40.4 %	5.56	B- (2.95)	B (3.16)
+Rossano, Federico	COGS 144 - Social Cognition (A)	FA19	50	17	92.9 %	92.9 %	4.19	B+ (3.54)	B+ (3.33)
+Davis, Joshua Daniel	COGS 14A - Intro. to Research Methods (A)	FA19	288	230	85.7 %	89.6 %	4.36	B+ (3.38)	B (3.18)
+Hoffman, Drew Ellen	COGS 14B - Intro. to Statistical Analysis (A)	FA19	97	63	87.1 %	90.3 %	4.63	B+ (3.32)	B+ (3.39)
+Bergen, Benjamin	COGS 15 - Uncensored Intro. to Language (A)	FA19	111	74	95.5 %	98.5 %	2.24	B+ (3.49)	B (3.28)
+Davis, Joshua Daniel	COGS 153 - Language Comprehension (A)	FA19	54	20	94.7 %	100.0 %	4.20	B (3.25)	B+ (3.35)
+Kirsh, David Joel	COGS 160 - Seminar on Special Topics (B)	FA19	30	14	100.0 %	100.0 %	6.21	B+ (3.50)	B+ (3.44)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA19	270	138	84.6 %	90.7 %	6.42	B (3.10)	C+ (2.67)
+Coulson, Seana M	COGS 179 - Electrophysiology of Cognition (A)	FA19	39	12	72.7 %	81.8 %	5.41	B+ (3.40)	B (3.15)
+Ellis, Shannon Elizabeth	COGS 18 - Introduction to Python (A)	FA19	301	230	96.5 %	97.8 %	5.23	B+ (3.66)	B+ (3.62)
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (A)	FA19	151	48	89.4 %	80.9 %	4.59	B+ (3.70)	B+ (3.62)
+Bardolph, Megan Dalene	COGS 3 - Introduction to Computing (A)	FA19	176	89	88.5 %	85.7 %	4.91	A- (3.81)	B+ (3.57)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	FA19	20	15	91.7 %	91.7 %	0.93	A- (3.75)	N/A
+Scott, Taylor Jackson	COGS 87 - Freshman Seminar (B)	FA19	22	14	100.0 %	100.0 %	0.79	A (4.00)	N/A
+Ellis, Shannon Elizabeth	COGS 9 - Introduction to Data Science (A)	FA19	292	248	93.5 %	97.2 %	3.23	A- (3.71)	A- (3.72)
+Davis, Joshua Daniel	COGS 101B - Learning, Memory and Attention (A)	S219	94	65	96.9 %	98.4 %	5.25	B+ (3.53)	B (3.12)
+Bristol, Rachel Elizabeth	COGS 101C - Language (A)	S219	31	28	81.5 %	100.0 %	7.39	B+ (3.40)	B (3.26)
+Allen, Michael Gordon	COGS 11 - Minds & Brains (A)	S219	17	16	93.8 %	93.8 %	4.88	B+ (3.64)	N/A
+Hoffman, Drew Ellen	COGS 14B - Intro. to Statistical Analysis (A)	S219	52	14	61.5 %	76.9 %	4.35	B+ (3.38)	C+ (2.66)
+Pineda, Jaime A	COGS 171GS - Mirror Neuron System (A)	S219	25	3	100.0 %	100.0 %	5.17	A (4.00)	B+ (3.58)
+Pineda, Jaime A	COGS 174GS - Drugs: Brain, Mind and Culture (A)	S219	25	3	100.0 %	100.0 %	3.83	A (4.00)	B+ (3.65)
+Gupta, Anjum	COGS 18 - Introduction to Python (A)	S219	104	37	89.2 %	70.3 %	6.82	B+ (3.40)	B+ (3.36)
+Boyle, Mary E. T.	COGS 187A - Usability & Info. Architecture (A)	S219	61	13	75.0 %	90.9 %	5.83	A- (3.75)	A- (3.87)
+Gupta, Anjum	COGS 188 - AI Algorithms (A)	S219	35	8	85.7 %	85.7 %	6.79	A- (3.71)	B (3.07)
+Miller, Carson Grant	COGS 3 - Introduction to Computing (A)	S219	29	8	62.5 %	75.0 %	5.50	B+ (3.33)	B- (2.70)
+Allen, Michael Gordon	COGS 100 - Cyborgs Now and in the Future (A)	S119	57	54	83.3 %	88.9 %	6.69	B (3.25)	B+ (3.49)
+Bristol, Rachel Elizabeth	COGS 101A - Sensation and Perception (A)	S119	61	58	96.6 %	98.3 %	6.46	B+ (3.47)	B+ (3.39)
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	S119	116	92	69.7 %	71.6 %	10.66	C+ (2.63)	C+ (2.59)
+Bardolph, Megan Dalene	COGS 109 - Modeling & Data Analysis (A)	S119	23	16	93.8 %	100.0 %	5.50	A- (3.75)	B+ (3.55)
+Gao, Richard	COGS 118C - Neural Signal Processing (A)	S119	33	29	93.1 %	100.0 %	8.07	B+ (3.64)	B+ (3.66)
+Johnson, Christine M.	COGS 143GS - Animal Cognition (A)	S119	24	19	94.7 %	94.7 %	7.97	B+ (3.63)	B+ (3.41)
+Davis, Joshua Daniel	COGS 14A - Intro. to Research Methods (A)	S119	89	31	96.4 %	89.3 %	4.91	B+ (3.69)	B (3.18)
+Relaford-Doyle, Josephine	COGS 152 - Cognitive Foundations of Math (A)	S119	29	22	95.2 %	100.0 %	4.98	B+ (3.67)	B+ (3.53)
+Boyle, Mary E. T.	COGS 17 - Neurobiology of Cognition (A)	S119	69	22	90.0 %	85.0 %	6.40	A- (3.70)	B (3.04)
+Johnson, Christine M.	COGS 184GS - Modeling/Evolution of Cognitn (A)	S119	24	19	100.0 %	100.0 %	7.45	B+ (3.53)	B+ (3.36)
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	SP19	480	409	85.2 %	85.2 %	3.78	B+ (3.31)	B (3.07)
+Hollan, James D.	COGS 10 - Cognitv Consequence/Technology (A)	SP19	282	171	66.7 %	70.3 %	3.38	B (3.28)	B+ (3.55)
+Scott, Taylor Jackson	COGS 100 - Cyborgs Now and in the Future (A)	SP19	201	176	78.9 %	92.6 %	4.28	B (3.29)	B+ (3.41)
+Bristol, Rachel Elizabeth	COGS 101A - Sensation and Perception (A)	SP19	225	179	93.2 %	93.8 %	4.41	B (3.23)	B- (2.93)
+Hoffman, Drew Ellen	COGS 101B - Learning, Memory and Attention (A)	SP19	338	190	96.8 %	97.8 %	3.99	B+ (3.60)	B+ (3.32)
+Cooperrider, Kensy A	COGS 101C - Language (A)	SP19	158	60	94.6 %	100.0 %	3.89	B+ (3.55)	B+ (3.38)
+Scott, Taylor Jackson	COGS 102C - Cognitive Design (A)	SP19	144	124	98.4 %	99.2 %	7.78	A- (3.91)	A- (3.98)
+Chiba, Andrea	COGS 107C - Cognitive Neuroscience (A)	SP19	246	92	86.6 %	89.0 %	4.96	B+ (3.51)	B+ (3.54)
+Ellis, Shannon Elizabeth	COGS 108 - Data Science in Practice (A)	SP19	301	238	96.1 %	98.7 %	5.33	A- (3.73)	A- (3.77)
+Ellis, Shannon Elizabeth	COGS 108 - Data Science in Practice (B)	SP19	476	339	88.6 %	93.7 %	5.00	B+ (3.69)	A- (3.77)
+Boroditsky, Lera	COGS 11 - Minds & Brains (A)	SP19	125	52	89.6 %	87.0 %	3.56	B+ (3.37)	B- (2.99)
+Deak, Gedeon O.	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	SP19	74	20	83.3 %	88.9 %	5.87	B (3.11)	B- (2.89)
+Tu, Zhuowen	COGS 118A - Intro to Machine Learning I (A)	SP19	190	137	87.3 %	68.4 %	7.38	B+ (3.41)	B+ (3.41)
+Mukamel, Eran A	COGS 118C - Neural Signal Processing (A)	SP19	48	33	90.6 %	96.9 %	8.44	B+ (3.39)	B (3.15)
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	SP19	17	7	83.3 %	66.7 %	3.83	A- (3.83)	N/A
+Boroditsky, Lera	COGS 12 - Language, Culture & Cognition (A)	SP19	56	21	90.5 %	90.5 %	2.69	A- (3.78)	B+ (3.37)
+Guo, Philip J	COGS 121 - Human Comptr Interac Prog Stud (A)	SP19	144	52	94.0 %	98.0 %	6.70	A- (3.83)	A- (3.83)
+Rossano, Federico	COGS 13 - Fld Methods: Cognition in Wild (A)	SP19	307	149	84.4 %	97.9 %	3.82	B+ (3.39)	B (3.24)
+Hoffman, Drew Ellen	COGS 14B - Intro. to Statistical Analysis (A)	SP19	218	139	84.8 %	87.0 %	4.58	B+ (3.31)	B (3.02)
+Nunez, Rafael E	COGS 152 - Cognitive Foundations of Math (A)	SP19	49	14	92.3 %	100.0 %	3.88	B (3.00)	B- (2.94)
+Nunez, Rafael E	COGS 155 - Gesture and Cognition (A)	SP19	51	20	100.0 %	100.0 %	2.92	B+ (3.38)	B- (2.95)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	SP19	7	4	0.0 %	0.0 %	0.00	N/A	N/A
+Nunez, Rafael E	COGS 160 - Seminar on Special Topics (B)	SP19	20	8	75.0 %	87.5 %	6.25	C (2.25)	B- (2.70)
+Rossano, Federico	COGS 160 - Seminar on Special Topics (C)	SP19	34	23	100.0 %	100.0 %	3.63	B+ (3.67)	B+ (3.62)
+Chiba, Andrea	COGS 164 - Neurobiology of Motivation (A)	SP19	79	27	96.2 %	96.2 %	3.19	A- (3.71)	A- (3.92)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP19	445	208	81.1 %	89.4 %	5.87	B- (2.99)	C+ (2.56)
+Jernigan, Terry Lynne	COGS 178 - Genes, Brains & Behavior (A)	SP19	53	23	90.5 %	95.2 %	2.50	A- (3.89)	A- (3.83)
+Coulson, Seana M	COGS 179 - Electrophysiology of Cognition (A)	SP19	45	14	83.3 %	100.0 %	6.17	B+ (3.33)	B- (2.83)
+Ellis, Shannon Elizabeth	COGS 18 - Introduction to Python (A)	SP19	275	222	94.9 %	98.6 %	5.36	B+ (3.50)	B+ (3.58)
+Tu, Zhuowen	COGS 181 - Neural Networks/Deep Learning (A)	SP19	148	78	93.5 %	90.9 %	5.66	A- (3.72)	B+ (3.55)
+Johnson, Christine M.	COGS 184 - Modeling/Evolution of Cognitn (A)	SP19	37	10	100.0 %	100.0 %	7.25	A- (3.88)	B (3.16)
+Leonardis, Eric Jeffrey	COGS 8 - Hands-On Computing (A)	SP19	35	16	92.9 %	92.9 %	3.07	B+ (3.54)	B+ (3.37)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	SP19	20	6	83.3 %	100.0 %	0.50	N/A	N/A
+Deak, Gedeon O.	COGS 1 - Introduction to Cognitive Sci (A)	WI19	469	369	95.0 %	93.9 %	3.38	B+ (3.62)	B+ (3.45)
+Leonardis, Eric Jeffrey	COGS 100 - Cyborgs Now and in the Future (A)	WI19	185	119	77.3 %	75.6 %	4.81	B (3.23)	A- (3.76)
+Hoffman, Drew Ellen	COGS 101A - Sensation and Perception (A)	WI19	420	243	95.3 %	90.5 %	4.47	B+ (3.36)	B (3.05)
+Scott, Taylor Jackson	COGS 102B - Cognitive Ethnography (A)	WI19	203	181	75.7 %	94.2 %	5.13	B+ (3.60)	A- (3.75)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI19	302	106	88.0 %	90.1 %	5.12	B (3.27)	B- (2.82)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (B)	WI19	143	45	82.5 %	82.5 %	5.64	B+ (3.31)	B- (2.82)
+Keown, Christopher Lee	COGS 108 - Data Science in Practice (A)	WI19	425	135	90.9 %	89.8 %	5.37	B+ (3.67)	B+ (3.68)
+Boroditsky, Lera	COGS 11 - Minds & Brains (A)	WI19	175	81	94.7 %	98.7 %	3.92	B+ (3.42)	B (3.17)
+Klemmer, Scott R	COGS 120 - Interaction Design (A)	WI19	141	61	67.2 %	31.6 %	11.45	B+ (3.31)	B+ (3.38)
+Hollan, James D.	COGS 126 - Human-Computer Interaction (A)	WI19	43	15	83.3 %	90.9 %	4.04	B+ (3.33)	B (3.24)
+Rossano, Federico	COGS 13 - Fld Methods: Cognition in Wild (A)	WI19	311	149	86.6 %	92.9 %	3.85	B+ (3.53)	B- (2.97)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	WI19	39	17	88.2 %	88.2 %	3.75	B (3.00)	B- (2.92)
+Kim, Seung Kyung	COGS 14A - Intro. to Research Methods (A)	WI19	177	138	78.1 %	67.2 %	4.02	B (3.28)	B- (2.81)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	WI19	13	4	66.7 %	66.7 %	6.50	A (4.00)	N/A
+Boyle, Mary E. T.	COGS 163 - Metabolic Disorders/Brain (A)	WI19	65	33	93.5 %	96.6 %	5.23	A- (3.85)	A- (3.75)
+Greenspan, Ralph J.	COGS 169 - Genetic Information/Behavior (A)	WI19	39	15	26.7 %	46.7 %	6.77	B (3.00)	C+ (2.51)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI19	288	133	91.3 %	90.3 %	6.11	B (3.17)	C+ (2.66)
+Saygin, Ayse P	COGS 172 - Brain Disorders and Cognition (A)	WI19	62	27	84.6 %	84.0 %	4.57	B+ (3.44)	B (3.05)
+Nitz, Douglas A.	COGS 176 - From Sleep to Attention (A)	WI19	74	22	90.0 %	100.0 %	4.10	B+ (3.53)	B+ (3.59)
+Kirsh, David Joel	COGS 187B - Practicum in Pro Web Design (A)	WI19	64	18	86.7 %	80.0 %	8.23	A- (3.73)	A- (3.73)
+De Sa, Virginia	COGS 189 - Brain Computer Interfaces (A)	WI19	108	18	88.2 %	94.1 %	4.15	A- (3.71)	A- (3.77)
+Boyle, Mary E. T.	COGS 2 - Cognitive NeuroEconomics (A)	WI19	33	18	82.4 %	82.4 %	2.74	A- (3.76)	A- (3.77)
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	WI19	136	60	91.4 %	87.9 %	5.55	A- (3.80)	B+ (3.64)
+Ellis, Shannon Elizabeth	COGS 9 - Introduction to Data Science (A)	WI19	326	158	90.8 %	92.1 %	3.84	A- (3.79)	A- (3.85)
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	FA18	469	426	90.4 %	92.0 %	4.34	B+ (3.45)	B (3.16)
+Scott, Taylor Jackson	COGS 10 - Cognitv Consequence/Technology (A)	FA18	260	227	94.7 %	97.8 %	3.82	A- (3.75)	B+ (3.69)
+Kirsh, David Joel	COGS 100 - Cyborgs Now and in the Future (A)	FA18	139	126	79.4 %	85.7 %	4.71	B (3.23)	B- (3.00)
+Momma, Shota	COGS 101C - Language (A)	FA18	241	103	96.0 %	98.0 %	3.93	B+ (3.56)	B+ (3.58)
+Scott, Taylor Jackson	COGS 102A - Distributed Cognition (A)	FA18	146	128	83.6 %	97.7 %	4.73	B+ (3.41)	B+ (3.42)
+Rangel, Lara M	COGS 107A - Neuroanatomy and Physiology (A)	FA18	201	99	90.8 %	99.0 %	4.71	B+ (3.56)	B+ (3.63)
+Mukamel, Eran A	COGS 109 - Modeling & Data Analysis (A)	FA18	133	92	79.8 %	87.8 %	7.85	B (3.23)	B (3.29)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA18	182	104	95.0 %	97.0 %	5.09	B+ (3.45)	B+ (3.36)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA18	76	39	91.4 %	85.7 %	4.96	B (3.24)	B (3.19)
+Tu, Zhuowen	COGS 118A - Intro to Machine Learning I (A)	FA18	154	59	83.0 %	75.5 %	9.44	B+ (3.37)	B+ (3.51)
+De Sa, Virginia	COGS 118B - Intro to Machine Learning II (A)	FA18	121	34	75.8 %	87.9 %	8.26	B+ (3.41)	A- (3.71)
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	FA18	36	22	90.0 %	85.0 %	6.50	B+ (3.63)	B+ (3.41)
+Guo, Philip J	COGS 120 - Interaction Design (A)	FA18	150	72	95.3 %	100.0 %	7.17	B+ (3.58)	A- (3.83)
+Guo, Philip J	COGS 124 - HCI Technical Systems Research (A)	FA18	32	21	100.0 %	100.0 %	4.88	A- (3.95)	A- (3.93)
+Sanchez Amaro, Alejandro	COGS 144 - Social Cognition (A)	FA18	42	21	85.0 %	90.0 %	3.90	B+ (3.55)	B (3.27)
+Kim, Seung Kyung	COGS 14A - Intro. to Research Methods (A)	FA18	162	135	80.6 %	82.8 %	3.42	B+ (3.62)	B (3.27)
+Kim, Seung Kyung	COGS 14B - Intro. to Statistical Analysis (A)	FA18	64	52	71.2 %	65.4 %	4.27	B (3.02)	B (3.04)
+Bergen, Benjamin	COGS 15 - Uncensored Intro. to Language (A)	FA18	115	78	100.0 %	100.0 %	2.29	B+ (3.63)	B+ (3.39)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	FA18	7	3	66.7 %	100.0 %	7.17	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA18	298	161	83.1 %	91.4 %	6.28	B (3.25)	B- (2.84)
+Rangel, Lara M	COGS 170 - Brain Waves Across Scales (A)	FA18	54	44	100.0 %	100.0 %	4.69	A- (3.76)	A- (3.91)
+Donoghue, Thomas	COGS 18 - Introduction to Python (A)	FA18	208	110	93.3 %	98.0 %	5.95	B+ (3.62)	B+ (3.54)
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (A)	FA18	73	46	92.9 %	90.5 %	4.45	B+ (3.60)	B+ (3.59)
+Miller, Carson Grant	COGS 3 - Introduction to Computing (A)	FA18	163	109	87.5 %	88.3 %	3.02	A- (3.78)	A- (3.79)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	FA18	15	9	88.9 %	100.0 %	0.50	B (3.00)	N/A
+Voytek, Bradley Thomas	COGS 9 - Introduction to Data Science (A)	FA18	404	152	91.0 %	95.1 %	2.98	A- (3.74)	B+ (3.43)
+Scott, Taylor Jackson	COGS 10 - Cognitv Consequence/Technology (A)	S218	47	43	95.2 %	97.6 %	4.88	A- (3.80)	B+ (3.64)
+Davis, Joshua Daniel	COGS 101B - Learning, Memory and Attention (A)	S218	114	63	96.8 %	98.4 %	4.98	B+ (3.50)	B+ (3.38)
+Johnson, Christine M.	COGS 102A - Distributed Cognition (A)	S218	49	13	58.3 %	45.5 %	5.33	B- (2.73)	C+ (2.63)
+Semenuks, Arturs	COGS 153 - Language Comprehension (A)	S218	22	19	100.0 %	94.7 %	6.50	B+ (3.47)	A- (3.76)
+Pineda, Jaime A	COGS 171GS - Mirror Neuron System (A)	S218	28	26	92.3 %	96.2 %	5.42	A- (3.71)	B+ (3.67)
+Pineda, Jaime A	COGS 174GS - Drugs: Brain, Mind and Culture (A)	S218	28	26	96.2 %	96.2 %	5.04	B+ (3.65)	A- (3.82)
+Boyle, Mary E. T.	COGS 187A - Usability & Info. Architecture (A)	S218	74	15	100.0 %	91.7 %	4.83	A- (3.92)	A- (3.90)
+Gupta, Anjum	COGS 188 - AI Algorithm & Social Language (A)	S218	38	21	85.7 %	81.0 %	6.30	B+ (3.35)	B (3.22)
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	S218	36	13	70.0 %	80.0 %	7.23	B+ (3.50)	B+ (3.52)
+Davis, Joshua Daniel	COGS 101A - Sensation and Perception (A)	S118	64	44	93.2 %	95.3 %	5.82	B+ (3.56)	B+ (3.33)
+Coulson, Seana M	COGS 101C - Language (A)	S118	37	12	80.0 %	88.9 %	4.67	B+ (3.50)	B+ (3.40)
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	S118	55	24	91.7 %	91.7 %	8.92	B+ (3.33)	B+ (3.38)
+Bardolph, Megan Dalene	COGS 109 - Modeling & Data Analysis (A)	S118	65	27	81.5 %	96.2 %	5.65	A- (3.73)	B+ (3.67)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	S118	19	18	100.0 %	100.0 %	8.28	B+ (3.47)	N/A
+Barrera, Steven James	COGS 14A - Intro. to Research Methods (A)	S118	89	41	97.5 %	100.0 %	5.28	B+ (3.35)	B (3.23)
+Gougelet, Robert Joseph	COGS 14B - Intro. to Statistical Analysis (A)	S118	26	14	64.3 %	46.2 %	13.64	B+ (3.43)	N/A
+Yang, Dorothy Daw-Shin	COGS 154 - Comm Disorders/Children&Adults (A)	S118	44	37	97.3 %	94.6 %	6.01	B+ (3.39)	B (3.07)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	S118	46	22	86.4 %	95.5 %	7.86	B (3.16)	B- (2.71)
+Pineda, Jaime A	COGS 1 - Introduction to Cognitive Sci (A)	SP18	410	141	90.2 %	90.2 %	3.66	B+ (3.50)	B- (2.88)
+Hollan, James D.	COGS 10 - Cognitv Consequence/Technology (A)	SP18	184	69	66.2 %	79.7 %	3.69	B+ (3.36)	B+ (3.49)
+Scott, Taylor Jackson	COGS 100 - Cyborgs Now and in the Future (A)	SP18	183	166	72.7 %	90.2 %	4.55	B (3.25)	B (3.22)
+Hoffman, Drew Ellen	COGS 101A - Sensation and Perception (A)	SP18	399	314	94.8 %	94.4 %	4.19	B+ (3.39)	B (3.01)
+Coulson, Seana M	COGS 101C - Language (A)	SP18	221	90	81.4 %	86.0 %	5.18	B+ (3.30)	B (3.11)
+Scott, Taylor Jackson	COGS 102C - Cognitive Design Studio (A)	SP18	127	106	90.5 %	95.2 %	9.15	B+ (3.69)	A- (3.85)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	SP18	270	115	82.1 %	78.1 %	5.71	B (3.12)	B- (2.83)
+Chiba, Andrea	COGS 107C - Cognitive Neuroscience (A)	SP18	239	110	89.3 %	92.2 %	4.79	B+ (3.58)	A- (3.72)
+Boroditsky, Lera	COGS 11 - Minds & Brains (A)	SP18	116	42	95.0 %	97.5 %	4.45	B+ (3.41)	B- (2.73)
+Mukamel, Eran A	COGS 118C - Neural Signal Processing (A)	SP18	43	21	100.0 %	100.0 %	8.20	B+ (3.35)	A- (3.72)
+Guo, Philip J	COGS 121 - Human Comptr Interac Prog Stud (A)	SP18	128	63	98.3 %	98.3 %	6.67	A- (3.73)	A- (3.81)
+Dow, Steven P	COGS 123 - Social Computing (A)	SP18	97	34	78.8 %	87.5 %	5.89	B+ (3.44)	B+ (3.46)
+Rossano, Federico	COGS 13 - Fld Methods: Cognition in Wild (A)	SP18	493	196	75.9 %	84.5 %	3.62	B+ (3.54)	B+ (3.51)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	SP18	36	14	92.9 %	92.9 %	5.50	B (3.25)	B+ (3.39)
+Barrera, Steven James	COGS 14A - Intro. to Research Methods (A)	SP18	165	76	96.0 %	100.0 %	4.05	B+ (3.61)	B (3.20)
+Gougelet, Robert Joseph	COGS 14B - Intro. to Statistical Analysis (A)	SP18	141	61	53.4 %	41.1 %	7.86	B+ (3.36)	B+ (3.50)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	SP18	41	13	72.7 %	90.9 %	4.32	B+ (3.60)	B+ (3.45)
+Nunez, Rafael E	COGS 152 - Cognitive Foundations of Math (A)	SP18	39	11	72.7 %	90.9 %	3.50	C+ (2.60)	B- (3.00)
+Yang, Dorothy Daw-Shin	COGS 153 - Language Comprehension (A)	SP18	40	28	92.9 %	100.0 %	5.71	B+ (3.44)	B- (2.72)
+Creel, Sarah	COGS 157 - Music and the Mind (A)	SP18	54	21	100.0 %	100.0 %	3.20	B+ (3.42)	B (3.21)
+Nunez, Rafael E	COGS 160 - Seminar on Special Topics (B)	SP18	21	8	83.3 %	100.0 %	3.17	B+ (3.67)	B- (2.93)
+Boyle, Mary E. T.	COGS 163 - Metabolic Disorders/Brain (A)	SP18	49	23	87.0 %	91.3 %	5.28	A- (3.86)	B+ (3.60)
+Chiba, Andrea	COGS 164 - Neurobiology of Motivation (A)	SP18	55	14	92.9 %	100.0 %	3.88	A- (3.85)	A- (3.98)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP18	307	117	79.1 %	89.1 %	6.03	B (3.18)	B- (2.72)
+Rangel, Lara M	COGS 170 - Brain Waves Across Scales (A)	SP18	36	29	100.0 %	100.0 %	4.14	A- (3.86)	A- (3.89)
+Jernigan, Terry Lynne	COGS 178 - Genes, Brains & Behavior (A)	SP18	30	21	75.0 %	80.0 %	3.80	A- (3.85)	B+ (3.69)
+Tu, Zhuowen	COGS 185 - Adv. Machine Learning Methods (A)	SP18	68	38	97.2 %	94.3 %	9.15	A- (3.78)	A- (3.86)
+Boyle, Mary E. T.	COGS 2 - Cognitive NeuroEconomics (A)	SP18	16	13	100.0 %	100.0 %	3.12	B+ (3.60)	N/A
+Borgo, David Garcia	COGS 20 - Exploring the Musical Mind (A)	SP18	15	9	87.5 %	75.0 %	1.93	B+ (3.57)	N/A
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	SP18	157	94	91.1 %	84.4 %	7.10	B+ (3.63)	B+ (3.66)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	SP18	8	4	100.0 %	100.0 %	0.50	N/A	N/A
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	WI18	401	358	93.0 %	93.0 %	4.41	B+ (3.40)	B (3.29)
+Hoffman, Drew Ellen	COGS 101B - Learning, Memory and Attention (A)	WI18	385	326	89.8 %	87.6 %	3.91	B+ (3.34)	B (3.01)
+Scott, Taylor Jackson	COGS 102B - Cognitive Ethnography (A)	WI18	193	176	78.4 %	94.3 %	4.93	B+ (3.59)	B+ (3.59)
+Rangel, Lara M	COGS 107A - Neuroanatomy and Physiology (A)	WI18	123	62	96.7 %	100.0 %	6.33	B+ (3.44)	B+ (3.64)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI18	351	175	87.9 %	87.3 %	5.88	B+ (3.33)	B (3.01)
+Voytek, Bradley Thomas	COGS 108 - Data Science in Practice (A)	WI18	426	168	91.1 %	97.4 %	5.25	A- (3.75)	A- (3.80)
+Boroditsky, Lera	COGS 11 - Minds & Brains (A)	WI18	175	79	89.3 %	90.3 %	3.53	B+ (3.52)	B (3.06)
+Tu, Zhuowen	COGS 118A - Intro to Machine Learning I (A)	WI18	165	74	91.9 %	83.8 %	7.28	A- (3.73)	B+ (3.62)
+Yu, Angela J.	COGS 118D - Stats/Behavioral Data Analysis (A)	WI18	24	18	55.6 %	55.6 %	11.79	B (3.29)	B+ (3.54)
+Boroditsky, Lera	COGS 12 - Language, Culture & Cognition (A)	WI18	47	20	94.7 %	94.7 %	3.45	B+ (3.65)	B+ (3.41)
+Klemmer, Scott R	COGS 120 - Interaction Design (A)	WI18	155	76	80.3 %	69.0 %	10.90	B+ (3.36)	B+ (3.49)
+Dow, Steven P	COGS 122 - Interaction Design Startup (A)	WI18	46	19	100.0 %	94.7 %	6.50	A- (3.82)	B+ (3.57)
+Rossano, Federico	COGS 144 - Social Cognition (A)	WI18	30	18	94.1 %	100.0 %	3.94	B (3.28)	B+ (3.52)
+Rossano, Federico	COGS 14A - Intro. to Research Methods (A)	WI18	218	160	89.9 %	93.7 %	3.71	B (3.21)	B (3.08)
+Hoffman, Drew Ellen	COGS 14B - Intro. to Statistical Analysis (A)	WI18	198	154	81.6 %	88.2 %	4.08	B (3.24)	B (3.19)
+Yang, Dorothy Daw-Shin	COGS 154 - Comm Disorders/Children&Adults (A)	WI18	74	65	95.4 %	95.4 %	3.98	B (3.19)	B (3.16)
+Creel, Sarah	COGS 156 - Language Development (A)	WI18	57	30	96.7 %	100.0 %	3.90	B+ (3.58)	B+ (3.67)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI18	384	260	90.2 %	94.4 %	5.79	B (3.27)	B- (2.85)
+Saygin, Ayse P	COGS 172 - Brain Disorders and Cognition (A)	WI18	63	28	81.5 %	60.0 %	5.58	B (3.16)	B- (2.92)
+Nitz, Douglas A.	COGS 176 - From Sleep to Attention (A)	WI18	51	24	95.2 %	100.0 %	4.69	B+ (3.48)	B+ (3.47)
+Nitz, Douglas A.	COGS 177 - Space and Time in the Brain (A)	WI18	41	16	93.3 %	100.0 %	4.63	A- (3.77)	A- (3.70)
+Johnson, Christine M.	COGS 184 - Modeling/Evolution of Cognitn (A)	WI18	19	12	90.9 %	100.0 %	6.67	B+ (3.33)	N/A
+Kirsh, David Joel	COGS 187B - Practicum in Pro Web Design (A)	WI18	62	45	90.2 %	80.5 %	7.26	A- (3.86)	B+ (3.64)
+De Sa, Virginia	COGS 189 - Brain Computer Interfaces (A)	WI18	85	37	94.3 %	91.4 %	5.06	A- (3.81)	A- (3.91)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI18	151	96	84.9 %	81.7 %	5.48	B+ (3.70)	B+ (3.66)
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	FA17	478	382	89.3 %	84.1 %	4.61	B+ (3.37)	B (3.26)
+Kirsh, David Joel	COGS 100 - Cyborgs Now and in the Future (A)	FA17	243	88	54.1 %	72.3 %	4.38	B+ (3.54)	B (3.20)
+Hoffman, Drew Ellen	COGS 101A - Sensation and Perception (A)	FA17	468	158	94.5 %	85.3 %	4.40	B+ (3.43)	B (3.07)
+Rangel, Lara M	COGS 107A - Neuroanatomy and Physiology (A)	FA17	322	130	84.3 %	93.3 %	7.02	B+ (3.45)	B+ (3.47)
+Mukamel, Eran A	COGS 109 - Modeling & Data Analysis (A)	FA17	119	53	80.4 %	92.3 %	9.13	B (3.16)	B+ (3.35)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA17	175	98	96.8 %	97.8 %	4.92	B+ (3.49)	B+ (3.43)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA17	45	19	83.3 %	88.9 %	5.50	B- (2.89)	B- (2.95)
+De Sa, Virginia	COGS 118B - Intro to Machine Learning II (A)	FA17	78	32	96.8 %	96.8 %	7.66	A- (3.79)	A- (3.82)
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	FA17	16	6	83.3 %	83.3 %	5.50	A (4.00)	N/A
+Guo, Philip J	COGS 120 - Interaction Design (A)	FA17	68	25	100.0 %	100.0 %	8.42	A- (3.72)	A- (3.87)
+Guo, Philip J	COGS 124 - HCI Technical Systems Research (A)	FA17	13	3	100.0 %	100.0 %	4.50	A (4.00)	N/A
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	FA17	30	11	100.0 %	100.0 %	7.90	B (3.10)	B (3.20)
+Creel, Sarah	COGS 14A - Intro. to Research Methods (A)	FA17	219	81	84.0 %	89.3 %	3.84	B+ (3.53)	B (3.23)
+Nunez, Rafael E	COGS 155 - Gesture and Cognition (A)	FA17	39	19	94.7 %	94.7 %	4.71	B+ (3.42)	B (3.26)
+Dow, Steven P	COGS 160 - Seminar on Special Topics (B)	FA17	41	17	100.0 %	100.0 %	9.00	A- (3.88)	B+ (3.64)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA17	270	99	91.6 %	92.6 %	6.16	B (3.17)	B- (2.86)
+Pineda, Jaime A	COGS 174 - Drugs: Brain, Mind and Culture (A)	FA17	121	47	95.3 %	95.2 %	4.36	B+ (3.49)	B (3.30)
+Pineda, Jaime A	COGS 175 - Alternate States/Consciousness (A)	FA17	44	15	78.6 %	85.7 %	5.21	B- (2.93)	B+ (3.39)
+Coulson, Seana M	COGS 179 - Electrophysiology of Cognition (A)	FA17	32	12	81.8 %	80.0 %	5.59	B+ (3.36)	B+ (3.32)
+Tu, Zhuowen	COGS 181 - Neural Networks/Deep Learning (A)	FA17	107	51	94.0 %	92.0 %	8.58	A- (3.74)	B+ (3.69)
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (A)	FA17	120	40	95.0 %	92.5 %	7.32	A- (3.87)	B+ (3.69)
+Bardolph, Megan Dalene	COGS 3 - An Introduction to Computing (A)	FA17	154	84	92.8 %	95.0 %	6.19	B+ (3.65)	A- (3.76)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	FA17	17	12	100.0 %	100.0 %	0.67	N/A	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	FA17	16	11	90.9 %	100.0 %	1.41	A (4.00)	N/A
+Voytek, Bradley Thomas	COGS 9 - Introduction to Data Science (A)	FA17	200	87	92.7 %	97.5 %	2.64	A- (3.89)	B+ (3.70)
+Troyer, Melissa	COGS 101C - Language (A)	S217	45	25	92.0 %	100.0 %	5.38	B+ (3.54)	B+ (3.52)
+Johnson, Christine M.	COGS 102A - Distributed Cognition (A)	S217	61	23	65.0 %	73.7 %	4.86	B (3.23)	N/A
+Hendricks, Rose Katherine	COGS 14A - Intro. to Research Methods (A)	S217	59	38	94.6 %	100.0 %	4.61	B+ (3.69)	B+ (3.49)
+Boyle, Mary E. T.	COGS 187A - Usability & Info. Architecture (A)	S217	68	64	96.9 %	96.8 %	7.25	A- (3.76)	A- (3.94)
+Gupta, Anjum	COGS 188 - AI Algorithm & Social Language (A)	S217	42	30	80.0 %	83.3 %	7.50	B+ (3.45)	B+ (3.37)
+Zhang, Kefei Kevin	COGS 20 - Exploring the Musical Mind (A)	S217	5	4	100.0 %	100.0 %	2.50	B (3.25)	N/A
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	S117	57	48	87.5 %	91.7 %	11.01	B (3.23)	B+ (3.53)
+Bardolph, Megan Dalene	COGS 109 - Modeling & Data Analysis (A)	S117	66	32	87.1 %	93.3 %	7.02	A- (3.71)	A- (3.72)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	S117	51	46	97.8 %	97.8 %	4.09	A- (3.80)	B+ (3.66)
+Gougelet, Robert Joseph	COGS 14B - Intro. to Statistical Analysis (A)	S117	42	19	83.3 %	75.0 %	12.17	B+ (3.56)	A- (3.75)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	S117	16	5	75.0 %	100.0 %	3.00	B (3.00)	N/A
+Yang, Dorothy Daw-Shin	COGS 154 - Comm Disorders/Children&Adults (A)	S117	69	14	100.0 %	84.6 %	5.21	B (3.25)	B- (2.86)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	S117	53	16	81.3 %	87.5 %	8.00	B (3.00)	B- (2.93)
+Pineda, Jaime A	COGS 171GS - Mirror Neuron System (A)	S117	28	4	100.0 %	100.0 %	5.00	B+ (3.50)	A- (3.81)
+Pineda, Jaime A	COGS 174GS - Drugs: Brain, Mind and Culture (A)	S117	28	4	100.0 %	100.0 %	4.00	B (3.25)	B+ (3.31)
+Barrera, Steven James	COGS 1 - Introduction to Cognitive Sci (A)	SP17	424	175	96.3 %	98.1 %	3.99	B+ (3.69)	B+ (3.42)
+Hollan, James D.	COGS 10 - Cognitv Consequence/Technology (A)	SP17	180	87	51.9 %	58.2 %	3.23	B+ (3.46)	B (3.24)
+Walker, Esther Jane	COGS 101C - Language (A)	SP17	310	108	87.9 %	91.9 %	4.38	B+ (3.57)	B+ (3.42)
+Johnson, Christine M.	COGS 102A - Distributed Cognition (A)	SP17	135	46	62.2 %	66.7 %	5.36	B (3.14)	B (3.11)
+Renner, Nancy Owens	COGS 102C - Cognitive Design Studio (A)	SP17	136	64	72.6 %	80.6 %	6.12	B+ (3.43)	A- (3.71)
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	SP17	170	61	77.2 %	68.4 %	7.54	B (3.08)	B (3.02)
+Chiba, Andrea	COGS 107C - Cognitive Neuroscience (A)	SP17	206	81	93.5 %	93.5 %	4.58	B+ (3.58)	B+ (3.62)
+Voytek, Bradley Thomas	COGS 108 - Data Science in Practice (A)	SP17	401	114	86.7 %	94.3 %	5.25	A- (3.76)	A- (3.76)
+Deak, Gedeon O.	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	SP17	38	13	83.3 %	91.7 %	5.83	B+ (3.50)	B (3.04)
+Tu, Zhuowen	COGS 118A - Intro to Machine Learning I (A)	SP17	105	41	92.5 %	75.0 %	8.65	B+ (3.54)	B+ (3.55)
+Mukamel, Eran A	COGS 118C - Neural Signal Processing (A)	SP17	18	13	100.0 %	100.0 %	6.33	B+ (3.50)	N/A
+Guo, Philip J	COGS 121 - Human Comptr Interac Prog Stud (A)	SP17	101	36	88.2 %	88.2 %	8.74	B+ (3.47)	B+ (3.59)
+Dow, Steven P	COGS 122 - Interaction Design Startup (A)	SP17	39	23	100.0 %	95.0 %	7.40	B+ (3.58)	B+ (3.57)
+Rossano, Federico	COGS 13 - Fld Methods: Cognition in Wild (A)	SP17	206	164	77.0 %	89.4 %	4.49	B+ (3.40)	B- (2.98)
+Creel, Sarah	COGS 14A - Intro. to Research Methods (A)	SP17	166	62	96.5 %	91.2 %	4.03	B+ (3.48)	B (3.07)
+Barrera, Steven James	COGS 14B - Intro. to Statistical Analysis (A)	SP17	224	97	89.7 %	98.9 %	4.97	B+ (3.46)	B (3.07)
+Nunez, Rafael E	COGS 152 - Cognitive Foundations of Math (A)	SP17	37	10	80.0 %	80.0 %	5.30	B+ (3.30)	B (3.01)
+Walker, Esther Jane	COGS 153 - Language Comprehension (A)	SP17	37	12	100.0 %	100.0 %	5.50	A- (3.91)	A- (3.75)
+Klemmer, Scott R	COGS 160 - Seminar on Special Topics (A)	SP17	29	14	80.0 %	60.0 %	7.83	A- (3.80)	B+ (3.37)
+Rangel, Lara M	COGS 160 - Seminar on Special Topics (D)	SP17	17	13	100.0 %	100.0 %	5.33	A- (3.77)	N/A
+Boyle, Mary E. T.	COGS 163 - Metabolic Disorders/Brain (A)	SP17	72	17	100.0 %	100.0 %	5.25	A (4.00)	A- (3.98)
+Chiba, Andrea	COGS 164 - Neurobiology of Motivation (A)	SP17	54	21	85.0 %	85.0 %	4.39	A- (3.80)	A- (3.83)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP17	191	75	76.5 %	76.5 %	6.08	B (3.15)	B- (2.72)
+Pineda, Jaime A	COGS 171 - Mirror Neuron System (A)	SP17	35	12	100.0 %	91.7 %	3.33	B (3.18)	B (3.30)
+Jernigan, Terry Lynne	COGS 178 - Genes, Brains & Behavior (A)	SP17	16	8	85.7 %	71.4 %	1.64	B+ (3.57)	N/A
+Yu, Angela J.	COGS 180 - Neural Coding/Sensory Systems (A)	SP17	7	7	71.4 %	85.7 %	8.50	B+ (3.50)	N/A
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	SP17	130	40	82.1 %	64.1 %	6.39	A- (3.79)	B+ (3.62)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	SP17	12	6	75.0 %	100.0 %	0.50	A (4.00)	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	SP17	8	3	66.7 %	100.0 %	1.17	N/A	N/A
+Fleischer, Jason G	COGS 9 - Introduction to Data Science (A)	SP17	185	77	97.2 %	94.4 %	3.76	A- (3.94)	A- (3.78)
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	WI17	370	173	85.5 %	57.2 %	5.07	B (3.12)	B (3.11)
+Kirsh, David Joel	COGS 100 - Cyborgs Now and in the Future (A)	WI17	97	47	46.5 %	55.8 %	4.55	B (3.28)	B (3.23)
+Walker, Esther Jane	COGS 101A - Sensation and Perception (A)	WI17	90	39	97.3 %	100.0 %	5.47	B+ (3.67)	B (3.24)
+Barrera, Steven James	COGS 101B - Learning, Memory and Attention (A)	WI17	368	197	95.7 %	99.5 %	5.09	B+ (3.52)	B (3.29)
+Johnson, Christine M.	COGS 102B - Cognitive Ethnography (A)	WI17	108	42	43.6 %	43.6 %	6.04	A- (3.72)	B+ (3.69)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (B)	WI17	288	111	83.0 %	77.4 %	5.52	B (3.22)	B- (2.92)
+Boroditsky, Lera	COGS 11 - Minds & Brains (A)	WI17	160	58	98.1 %	100.0 %	4.42	B+ (3.53)	B (3.14)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	WI17	44	11	70.0 %	60.0 %	7.30	B (3.10)	B- (2.91)
+Yu, Angela J.	COGS 118D - Stats/Behavioral Data Analysis (A)	WI17	13	13	76.9 %	84.6 %	10.04	A- (3.75)	N/A
+Boroditsky, Lera	COGS 12 - Language, Culture & Cognition (A)	WI17	42	16	92.3 %	100.0 %	2.81	A- (3.77)	B+ (3.52)
+Klemmer, Scott R	COGS 120 - Interaction Design (A)	WI17	107	35	89.7 %	93.1 %	10.50	B (3.28)	B (3.25)
+Barrera, Steven James	COGS 14A - Intro. to Research Methods (A)	WI17	276	155	94.7 %	99.3 %	4.24	B+ (3.59)	B+ (3.31)
+Nunez, Rafael E	COGS 14B - Intro. to Statistical Analysis (A)	WI17	76	26	69.2 %	84.6 %	4.65	B (3.16)	B- (2.73)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	WI17	25	7	85.7 %	100.0 %	4.21	B (3.29)	B (3.08)
+Nunez, Rafael E	COGS 155 - Gesture and Cognition (A)	WI17	33	10	87.5 %	62.5 %	5.07	B (3.00)	B- (2.85)
+Creel, Sarah	COGS 157 - Music and the Mind (A)	WI17	17	9	77.8 %	100.0 %	3.83	B+ (3.44)	N/A
+Coulson, Seana M	COGS 160 - Seminar on Special Topics (A)	WI17	4	3	100.0 %	100.0 %	4.50	A (4.00)	N/A
+Dow, Steven P	COGS 160 - Seminar on Special Topics (C)	WI17	52	33	96.9 %	90.6 %	5.27	B+ (3.48)	B+ (3.51)
+Greenspan, Ralph J.	COGS 169 - Genetic Information/Behavior (A)	WI17	16	5	100.0 %	100.0 %	4.50	B (3.25)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI17	190	89	90.5 %	92.9 %	6.28	B (3.16)	B (3.02)
+Saygin, Ayse P	COGS 172 - Brain Disorders and Cognition (A)	WI17	63	31	80.0 %	46.7 %	4.64	B (3.27)	B (3.22)
+Nitz, Douglas A.	COGS 177 - Space and Time in the Brain (A)	WI17	21	10	100.0 %	90.0 %	4.50	A- (3.70)	A- (3.92)
+Tu, Zhuowen	COGS 181 - Neural Networks/Deep Learning (A)	WI17	74	31	96.7 %	90.0 %	8.10	B+ (3.63)	B+ (3.65)
+Kirsh, David Joel	COGS 187B - Practicum in Pro Web Design (A)	WI17	61	22	100.0 %	95.0 %	5.80	A- (3.79)	A- (3.75)
+De Sa, Virginia	COGS 189 - Brain Computer Interfaces (A)	WI17	26	9	100.0 %	100.0 %	5.50	A- (3.89)	A- (3.98)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI17	95	32	93.1 %	82.8 %	5.91	B+ (3.58)	A- (3.81)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	WI17	14	10	80.0 %	100.0 %	0.72	A (4.00)	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	WI17	16	11	100.0 %	100.0 %	2.50	A (4.00)	N/A
+Voytek, Bradley Thomas	COGS 1 - Introduction to Cognitive Sci (A)	FA16	483	243	93.8 %	95.6 %	2.91	B+ (3.65)	B+ (3.33)
+Barrera, Steven James	COGS 101A - Sensation and Perception (A)	FA16	410	234	97.4 %	99.6 %	5.40	B+ (3.38)	B (3.04)
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (B)	FA16	304	160	83.0 %	58.8 %	9.49	B (3.09)	B (3.19)
+Olson, Jacob Michael	COGS 109 - Modeling & Data Analysis (A)	FA16	152	115	74.6 %	78.9 %	6.54	B (3.08)	B (3.13)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA16	59	26	100.0 %	95.7 %	5.46	B+ (3.65)	A- (3.91)
+De Sa, Virginia	COGS 118B - Natural Computation II (A)	FA16	55	19	94.4 %	100.0 %	6.50	B+ (3.53)	A- (3.87)
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	FA16	16	11	90.9 %	27.3 %	6.68	A- (3.73)	N/A
+Guo, Philip J	COGS 120 - Interaction Design (A)	FA16	135	77	94.5 %	93.2 %	9.40	B+ (3.63)	A- (3.77)
+Rossano, Federico	COGS 14A - Intro. to Research Methods (A)	FA16	196	154	84.1 %	92.7 %	4.02	B+ (3.35)	B (3.05)
+Walker, Esther Jane	COGS 14B - Intro. to Statistical Analysis (A)	FA16	116	49	91.7 %	97.9 %	4.21	B+ (3.64)	B (3.13)
+Bergen, Benjamin	COGS 15 - Uncensored Intro. to Language (A)	FA16	74	38	92.1 %	94.7 %	2.28	B+ (3.49)	B (3.24)
+Yang, Dorothy Daw-Shin	COGS 154 - Comm Disorders/Children&Adults (A)	FA16	68	34	97.1 %	100.0 %	3.83	B+ (3.39)	B (3.03)
+Creel, Sarah	COGS 156 - Language Development (B)	FA16	23	7	100.0 %	100.0 %	3.93	A- (3.71)	B+ (3.36)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	FA16	8	4	100.0 %	100.0 %	7.17	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA16	140	74	95.7 %	95.7 %	5.57	B+ (3.49)	B (3.28)
+Pineda, Jaime A	COGS 174 - Drugs: Brain, Mind and Culture (A)	FA16	104	46	100.0 %	97.6 %	5.05	B (3.15)	B (3.18)
+Pineda, Jaime A	COGS 175 - Alternate States/Consciousness (A)	FA16	43	19	94.1 %	100.0 %	5.32	B (3.12)	B (3.19)
+Coulson, Seana M	COGS 179 - Electrophysiology of Cognition (A)	FA16	19	11	63.6 %	63.6 %	5.95	B (3.20)	N/A
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (A)	FA16	104	62	91.8 %	86.9 %	7.93	A- (3.75)	A- (3.71)
+Tibbles, Richard	COGS 8 - Hands-On Computing (A)	FA16	33	18	88.9 %	100.0 %	3.72	B+ (3.63)	A- (3.71)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	FA16	15	10	100.0 %	100.0 %	0.75	A (4.00)	N/A
+Voytek, Bradley Thomas	COGS 9 - Introduction to Data Science (A)	FA16	245	128	88.3 %	96.6 %	2.35	A- (3.84)	A- (3.92)
+Walker, Esther Jane	COGS 101B - Learning, Memory and Attention (A)	S216	30	13	92.3 %	92.3 %	6.96	B+ (3.46)	B (3.19)
+Johnson, Christine M.	COGS 102A - Distributed Cognition (A)	S216	64	15	75.0 %	100.0 %	4.50	B (3.25)	B (3.26)
+Olson, Jacob Michael	COGS 109 - Modeling & Data Analysis (A)	S216	82	30	89.3 %	92.9 %	8.65	B+ (3.40)	B (3.20)
+Yang, Dorothy Daw-Shin	COGS 154 - Comm Disorders/Children&Adults (A)	S216	28	6	100.0 %	100.0 %	6.17	B+ (3.60)	B (3.19)
+Frye, Conor Iain	COGS 157 - Music and the Mind (A)	S216	11	6	100.0 %	100.0 %	6.10	B (3.20)	N/A
+Datko, Michael	COGS 174 - Drugs: Brain, Mind and Culture (A)	S216	50	45	95.6 %	93.3 %	5.12	B+ (3.32)	B (3.09)
+Boyle, Mary E. T.	COGS 187A - Usability & Info. Architecture (A)	S216	71	15	76.9 %	76.9 %	7.42	A- (3.75)	A- (3.77)
+Gupta, Anjum	COGS 188 - AI Algorithm & Social Language (A)	S216	26	20	90.0 %	100.0 %	6.10	B+ (3.35)	B- (2.97)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	S216	17	4	100.0 %	100.0 %	5.83	B (3.00)	N/A
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	S116	72	24	91.3 %	69.6 %	13.89	B (3.00)	B- (3.00)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	S116	23	7	85.7 %	85.7 %	5.64	B+ (3.40)	A (4.00)
+Gonzalez, Marybel Robledo	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	S116	17	7	100.0 %	100.0 %	6.21	B+ (3.50)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	S116	25	13	100.0 %	100.0 %	5.61	B+ (3.43)	B+ (3.57)
+Pineda, Jaime A	COGS 171GS - Mirror Neuron System (A)	S116	27	6	83.3 %	83.3 %	6.83	B+ (3.67)	B+ (3.70)
+Pineda, Jaime A	COGS 174GS - Drugs: Brain, Mind and Culture (A)	S116	27	6	100.0 %	83.3 %	6.17	B+ (3.67)	A- (3.76)
+Barrera, Steven James	COGS 1 - Introduction to Cognitive Sci (A)	SP16	348	142	95.5 %	99.2 %	4.03	B+ (3.65)	B+ (3.33)
+Bergen, Benjamin	COGS 101C - Language (A)	SP16	241	94	84.6 %	85.7 %	4.43	B (3.25)	B- (2.83)
+Renner, Nancy Owens	COGS 102C - Cognitive Design Studio (A)	SP16	154	44	97.6 %	90.5 %	6.64	A- (3.88)	B+ (3.50)
+Chukoskie, Leanne	COGS 107C - Cognitive Neuroscience (A)	SP16	184	63	70.0 %	60.0 %	4.50	B (3.19)	B- (2.99)
+Weibel, Nadir	COGS 121 - Human Comptr Interac Prog Stud (A)	SP16	73	20	64.7 %	41.2 %	10.03	B (3.29)	B+ (3.48)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	SP16	38	14	100.0 %	92.3 %	5.41	B (3.10)	B (3.09)
+Creel, Sarah	COGS 14A - Intro. to Research Methods (A)	SP16	137	53	77.6 %	73.5 %	3.63	B+ (3.49)	B (3.03)
+Nunez, Rafael E	COGS 14B - Intro. to Statistical Analysis (A)	SP16	97	37	66.7 %	72.2 %	4.44	B (3.28)	B- (2.73)
+Yang, Dorothy Daw-Shin	COGS 154 - Comm Disorders/Children&Adults (A)	SP16	112	45	100.0 %	93.0 %	4.13	B+ (3.31)	B (3.09)
+Creel, Sarah	COGS 156 - Language Development (A)	SP16	64	23	76.2 %	76.2 %	4.88	B+ (3.35)	B (3.20)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (B)	SP16	7	5	75.0 %	100.0 %	8.00	A (4.00)	N/A
+Mukamel, Eran A	COGS 160 - Seminar on Special Topics (C)	SP16	10	8	100.0 %	100.0 %	4.21	A- (3.88)	N/A
+Rossano, Federico	COGS 160 - Seminar on Special Topics (D)	SP16	11	7	100.0 %	100.0 %	3.07	B+ (3.67)	N/A
+Dow, Steven P	COGS 160 - Seminar on Special Topics (E)	SP16	29	12	100.0 %	100.0 %	9.23	A- (3.92)	B+ (3.44)
+Dow, Steven P	COGS 160 - Seminar on Special Topics (F)	SP16	25	10	100.0 %	100.0 %	6.10	B+ (3.67)	B+ (3.44)
+Boyle, Mary E. T.	COGS 163 - Metabolic Disorders/Brain (A)	SP16	41	17	87.5 %	75.0 %	7.25	B+ (3.69)	A- (3.76)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP16	117	46	86.4 %	93.2 %	5.36	B (3.13)	B- (2.73)
+Yu, Angela J.	COGS 180 - Neural Coding/Sensory Systems (B)	SP16	8	7	85.7 %	85.7 %	8.21	B (3.29)	N/A
+Tu, Zhuowen	COGS 185 - Adv. Machine Learning Methods (A)	SP16	42	18	100.0 %	100.0 %	8.50	A (4.00)	A- (3.77)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	SP16	81	35	80.0 %	74.3 %	6.96	B+ (3.48)	B+ (3.56)
+Pineda, Jaime A	COGS 87 - Freshman Seminar (A)	SP16	17	10	100.0 %	80.0 %	0.50	N/A	N/A
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (B)	SP16	5	3	100.0 %	100.0 %	1.17	N/A	N/A
+Voytek, Bradley Thomas	COGS 9 - Introduction to Data Science (A)	SP16	99	38	97.2 %	97.2 %	2.06	A- (3.94)	A- (3.92)
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	WI16	236	147	79.7 %	60.9 %	5.22	B- (2.85)	B- (2.74)
+Barrera, Steven James	COGS 101B - Learning, Memory and Attention (A)	WI16	309	180	97.1 %	98.9 %	4.35	B+ (3.54)	B (3.23)
+Renner, Nancy Owens	COGS 102B - Cognitive Ethnography (A)	WI16	222	114	70.9 %	88.2 %	4.39	A- (3.81)	B+ (3.59)
+Alexander, Andrew Spencer	COGS 107B - Systems Neuroscience (A)	WI16	220	178	92.1 %	91.5 %	5.38	B (3.26)	B (3.01)
+Boroditsky, Lera	COGS 11 - Minds & Brains (A)	WI16	74	38	97.2 %	94.4 %	4.67	B (3.28)	B (3.16)
+Blumenthal, Emily Jeanne	COGS 110 - The Developing Mind (A)	WI16	70	60	93.3 %	91.7 %	3.75	B+ (3.35)	B (3.11)
+Tu, Zhuowen	COGS 118A - Natural Computation I (A)	WI16	74	38	97.2 %	86.1 %	8.56	B+ (3.48)	B+ (3.67)
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	WI16	9	6	80.0 %	100.0 %	8.50	B+ (3.60)	N/A
+Klemmer, Scott R	COGS 120 - Interaction Design (A)	WI16	112	48	90.5 %	92.9 %	9.96	B+ (3.59)	B+ (3.58)
+Rossano, Federico	COGS 14A - Intro. to Research Methods (A)	WI16	166	120	79.7 %	91.5 %	3.54	B+ (3.35)	B (3.03)
+Nunez, Rafael E	COGS 14B - Intro. to Statistical Analysis (A)	WI16	127	65	80.3 %	62.3 %	4.03	B (3.08)	C+ (2.45)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	WI16	10	6	83.3 %	100.0 %	6.83	A- (3.83)	N/A
+Nunez, Rafael E	COGS 152 - Cognitive Foundations of Math (A)	WI16	17	7	100.0 %	100.0 %	4.79	C+ (2.60)	N/A
+Bergen, Benjamin	COGS 153 - Language Comprehension (A)	WI16	26	14	92.3 %	100.0 %	4.96	B+ (3.62)	A- (3.76)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (B)	WI16	11	5	80.0 %	100.0 %	8.90	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI16	142	71	82.6 %	92.8 %	5.75	B (3.18)	B (3.02)
+Pineda, Jaime A	COGS 174 - Drugs: Brain, Mind and Culture (A)	WI16	98	39	89.2 %	86.5 %	5.42	B (3.18)	B- (2.97)
+Johnson, Christine M.	COGS 184 - Modeling/Evolution of Cognitn (A)	WI16	10	3	100.0 %	100.0 %	13.17	B+ (3.50)	N/A
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (A)	WI16	77	28	80.0 %	88.0 %	8.59	A- (3.78)	A- (3.80)
+Kirsh, David Joel	COGS 187B - Practicum in Pro Web Design (A)	WI16	37	16	100.0 %	81.3 %	9.13	B+ (3.69)	B+ (3.63)
+De Sa, Virginia	COGS 189 - Brain Computer Interfaces (A)	WI16	15	5	100.0 %	100.0 %	6.90	A- (3.75)	N/A
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI16	87	36	73.5 %	91.2 %	8.74	B+ (3.30)	B+ (3.67)
+Tibbles, Richard	COGS 8 - Hands-On Computing (A)	WI16	25	18	100.0 %	100.0 %	2.75	B+ (3.53)	B+ (3.68)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	WI16	13	9	100.0 %	100.0 %	0.72	N/A	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	WI16	31	24	100.0 %	100.0 %	1.02	A- (3.83)	N/A
+Hollan, James D.	COGS 90 - Undergraduate Seminar (A)	WI16	8	4	100.0 %	100.0 %	0.50	N/A	N/A
+Voytek, Bradley Thomas	COGS 1 - Introduction to Cognitive Sci (B)	FA15	333	164	91.3 %	97.3 %	2.86	B+ (3.66)	B+ (3.53)
+Barrera, Steven James	COGS 101A - Sensation and Perception (A)	FA15	304	174	97.0 %	99.4 %	4.64	B+ (3.52)	B (3.22)
+Renner, Nancy Owens	COGS 102A - Distributed Cognition (A)	FA15	201	125	78.0 %	81.3 %	5.28	B+ (3.34)	B+ (3.55)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA15	217	139	92.6 %	89.0 %	5.55	B+ (3.42)	B- (2.99)
+Tu, Zhuowen	COGS 109 - Modeling & Data Analysis (A)	FA15	148	60	76.4 %	65.5 %	6.86	B+ (3.56)	B+ (3.44)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA15	81	41	92.7 %	97.6 %	4.80	B+ (3.51)	B (3.15)
+Deak, Gedeon O.	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	FA15	49	27	84.6 %	84.6 %	5.73	B+ (3.32)	B+ (3.38)
+De Sa, Virginia	COGS 118B - Natural Computation II (A)	FA15	25	11	100.0 %	100.0 %	7.50	B+ (3.55)	A- (3.87)
+Boroditsky, Lera	COGS 12 - Language, Culture & Cognition (A)	FA15	33	17	93.8 %	93.8 %	2.50	B+ (3.60)	A (4.00)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	FA15	41	19	89.5 %	94.7 %	5.45	B (3.29)	B+ (3.36)
+Barrera, Steven James	COGS 14A - Intro. to Research Methods (A)	FA15	149	85	91.1 %	97.5 %	3.96	B+ (3.49)	B (3.21)
+Bergen, Benjamin	COGS 15 - Uncensored Intro. to Language (A)	FA15	47	20	100.0 %	100.0 %	3.17	B (3.20)	B (3.28)
+Klemmer, Scott R	COGS 160 - Seminar on Special Topics (A)	FA15	20	4	75.0 %	50.0 %	6.50	B+ (3.33)	B+ (3.64)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (B)	FA15	10	3	100.0 %	100.0 %	9.17	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA15	106	56	96.2 %	92.5 %	4.97	B+ (3.36)	B (3.07)
+Pineda, Jaime A	COGS 171 - Mirror Neuron System (A)	FA15	46	16	85.7 %	64.3 %	3.64	B (3.21)	B (3.17)
+Boyle, Mary E. T.	COGS 187A - Usability & Info. Architecture (A)	FA15	74	29	88.9 %	85.2 %	6.35	A- (3.71)	B+ (3.55)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	FA15	20	10	100.0 %	100.0 %	0.50	A (4.00)	N/A
+Voytek, Bradley Thomas	COGS 9 - Introduction to Data Science (A)	FA15	48	25	100.0 %	100.0 %	4.41	A- (3.90)	B+ (3.59)
+Johnson, Christine M.	COGS 102A - Distributed Cognition (A)	S215	43	15	73.3 %	73.3 %	4.23	B+ (3.47)	B (3.11)
+Alexander, Andrew Spencer	COGS 107B - Systems Neuroscience (A)	S215	35	25	96.0 %	100.0 %	6.74	B+ (3.33)	B (3.18)
+Olson, Jacob Michael	COGS 109 - Modeling & Data Analysis (A)	S215	38	29	92.6 %	100.0 %	8.94	B (3.19)	B (3.29)
+Metusalem, Ross	COGS 153 - Language Comprehension (A)	S215	18	8	100.0 %	100.0 %	6.50	B+ (3.50)	N/A
+Datko, Michael	COGS 174 - Drugs: Brain, Mind and Culture (A)	S215	24	19	100.0 %	100.0 %	3.45	B+ (3.53)	B (3.13)
+Boyle, Mary E. T.	COGS 187A - Usability & Info. Architecture (A)	S215	29	5	100.0 %	100.0 %	8.50	A- (3.80)	A- (3.80)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	S215	22	3	100.0 %	100.0 %	13.50	B+ (3.67)	A- (3.97)
+Walker, Esther J.	COGS 101B - Learning, Memory and Attention (A)	S115	14	8	100.0 %	100.0 %	4.50	A- (3.75)	N/A
+Coulson, Seana M	COGS 101C - Language (A)	S115	14	5	80.0 %	100.0 %	5.30	B+ (3.40)	N/A
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	S115	54	14	85.7 %	92.9 %	9.88	B (3.07)	B+ (3.68)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	S115	16	4	75.0 %	75.0 %	5.50	A- (3.75)	N/A
+Marghetis, Tyler	COGS 14A - Intro. to Research Methods (A)	S115	36	15	66.7 %	100.0 %	5.83	B (3.07)	B+ (3.34)
+Ellis, Erica Michelle	COGS 154 - Comm Disorders/Children&Adults (A)	S115	34	22	100.0 %	95.5 %	5.23	B+ (3.43)	B+ (3.55)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	S115	20	8	100.0 %	100.0 %	6.75	A- (3.88)	B+ (3.65)
+Pineda, Jaime A	COGS 171GS - Mirror Neuron System (A)	S115	28	3	100.0 %	100.0 %	5.83	B+ (3.33)	B+ (3.50)
+Pineda, Jaime A	COGS 174GS - Drugs: Brain, Mind and Culture (A)	S115	28	3	100.0 %	100.0 %	5.17	A (4.00)	B+ (3.42)
+Barrera, Steven James	COGS 1 - Introduction to Cognitive Sci (A)	SP15	289	136	90.8 %	99.2 %	3.21	B+ (3.59)	B (3.25)
+Bergen, Benjamin	COGS 101C - Language (A)	SP15	212	70	82.1 %	88.1 %	4.68	B+ (3.36)	B- (2.91)
+Hollan, James D.	COGS 102C - Cognitive Design Studio (A)	SP15	122	26	80.8 %	65.4 %	7.38	B+ (3.46)	B+ (3.38)
+Jernigan, Terry Lynne	COGS 107C - Cognitive Neuroscience (A)	SP15	178	57	58.5 %	50.9 %	4.80	B+ (3.43)	B (3.16)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SP15	82	32	90.0 %	73.3 %	4.57	B (3.25)	B (3.08)
+Blumenthal, Emily Jeanne	COGS 110 - The Developing Mind (A)	SP15	48	33	80.6 %	93.5 %	3.03	B+ (3.40)	B+ (3.35)
+Weibel, Nadir	COGS 121 - Human Comptr Interac Prog Stud (A)	SP15	65	19	66.7 %	77.8 %	6.25	B (3.18)	B+ (3.45)
+Barrera, Steven James	COGS 14A - Intro. to Research Methods (A)	SP15	176	108	94.3 %	99.0 %	4.34	B+ (3.68)	B (3.22)
+Mukamel, Eran A	COGS 14B - Intro. to Statistical Analysis (A)	SP15	87	29	85.2 %	77.8 %	4.13	B+ (3.48)	B+ (3.43)
+Bergen, Benjamin	COGS 15 - Uncensored Intro. to Language (A)	SP15	54	29	57.1 %	75.0 %	3.24	B+ (3.32)	B- (2.96)
+Marghetis, Tyler	COGS 152 - Cognitive Foundations of Math (A)	SP15	32	18	94.4 %	100.0 %	4.61	B (3.27)	B (3.27)
+Ellis, Erica Michelle	COGS 154 - Comm Disorders/Children&Adults (A)	SP15	139	95	95.8 %	97.9 %	4.37	A- (3.72)	B+ (3.35)
+Nunez, Rafael E	COGS 155 - Gesture and Cognition (A)	SP15	36	9	100.0 %	100.0 %	4.06	B+ (3.56)	B- (2.79)
+Creel, Sarah	COGS 157 - Music and the Mind (A)	SP15	32	11	72.7 %	90.9 %	3.95	B+ (3.40)	B (3.20)
+Coulson, Seana M	COGS 160 - Seminar on Special Topics (A)	SP15	11	3	100.0 %	100.0 %	1.50	A (4.00)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (B)	SP15	7	4	100.0 %	100.0 %	10.50	A (4.00)	N/A
+Boyle, Mary E. T.	COGS 163 - Metabolic Disorders/Brain (A)	SP15	17	7	100.0 %	100.0 %	4.83	A- (3.83)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP15	68	28	85.2 %	85.2 %	4.81	B+ (3.36)	B- (2.97)
+Tu, Zhuowen	COGS 185 - Adv. Machine Learning Methods (A)	SP15	13	10	100.0 %	100.0 %	10.50	A- (3.88)	N/A
+Voytek, Bradley Thomas	COGS 3 - An Introduction to Computing (A)	SP15	91	40	94.7 %	92.1 %	2.50	A- (3.83)	B+ (3.46)
+Karnowski, Jeremy Benjamin	COGS 8 - Hands-On Computing (A)	SP15	16	14	92.3 %	84.6 %	4.35	B+ (3.46)	N/A
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	SP15	16	7	100.0 %	100.0 %	0.50	N/A	N/A
+Klemmer, Scott R	COGS 90 - Undergraduate Seminar (A)	SP15	13	4	100.0 %	100.0 %	7.83	N/A	N/A
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	WI15	235	101	74.7 %	80.0 %	4.03	B (3.18)	C+ (2.64)
+Hollan, James D.	COGS 10 - Cognitv Consequence/Technology (A)	WI15	23	12	66.7 %	66.7 %	3.67	B (3.22)	B (3.07)
+Barrera, Steven James	COGS 101B - Learning, Memory and Attention (A)	WI15	245	137	97.8 %	98.5 %	4.71	B+ (3.46)	B (3.20)
+McComsey, Melanie E	COGS 102B - Cognitive Ethnography (A)	WI15	183	121	48.3 %	60.8 %	4.82	B+ (3.61)	B+ (3.47)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI15	195	73	92.6 %	95.6 %	5.53	B+ (3.52)	B- (2.86)
+Boroditsky, Lera	COGS 11 - Minds & Brains (A)	WI15	61	29	96.6 %	96.6 %	3.71	B+ (3.46)	B (3.28)
+Haist, Frank	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	WI15	32	12	90.9 %	100.0 %	3.59	B+ (3.44)	B (3.19)
+Tu, Zhuowen	COGS 118A - Natural Computation I (A)	WI15	22	11	100.0 %	90.0 %	9.10	A- (3.89)	B+ (3.44)
+Klemmer, Scott R	COGS 120 - Introduction to HCI Design (A)	WI15	119	59	85.2 %	83.3 %	9.81	B+ (3.38)	B (3.25)
+Creel, Sarah	COGS 14A - Intro. to Research Methods (A)	WI15	138	63	83.1 %	78.0 %	3.43	B+ (3.50)	B (3.12)
+Nunez, Rafael E	COGS 152 - Cognitive Foundations of Math (A)	WI15	24	7	83.3 %	100.0 %	5.83	B+ (3.40)	B (3.04)
+Bergen, Benjamin	COGS 153 - Language Comprehension (A)	WI15	39	14	78.6 %	100.0 %	4.50	B+ (3.50)	B+ (3.46)
+Chiba, Andrea	COGS 160 - Seminar on Special Topics (C)	WI15	19	6	75.0 %	75.0 %	4.00	A- (3.75)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI15	92	41	77.5 %	72.5 %	4.60	B (3.13)	B (3.17)
+Miller, Luke	COGS 172 - Brain Disorders and Cognition (A)	WI15	47	19	100.0 %	94.7 %	4.71	B (3.26)	B+ (3.49)
+Nitz, Douglas A.	COGS 177 - Space and Time in the Brain (A)	WI15	20	8	100.0 %	100.0 %	3.75	A- (3.88)	B+ (3.55)
+Jernigan, Terry Lynne	COGS 178 - Genes, Brains & Behavior (A)	WI15	12	5	80.0 %	100.0 %	2.90	B (3.20)	N/A
+Johnson, Christine M.	COGS 184 - Modeling/Evolution of Cognitn (A)	WI15	15	4	100.0 %	100.0 %	5.83	A- (3.75)	N/A
+Kirsh, David Joel	COGS 187B - Practicum in Pro Web Design (A)	WI15	50	18	94.1 %	88.2 %	6.38	B+ (3.53)	B+ (3.59)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI15	64	29	77.8 %	74.1 %	5.83	B+ (3.58)	B+ (3.66)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	WI15	13	4	100.0 %	100.0 %	1.50	N/A	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	WI15	18	11	81.8 %	90.9 %	1.23	B+ (3.33)	N/A
+Saygin, Ayse P	COGS 91 - SCANS Presents (A)	WI15	9	6	100.0 %	50.0 %	0.50	N/A	N/A
+Tu, Zhuowen	COGS 1 - Introduction to Cognitive Sci (A)	FA14	271	137	88.4 %	82.6 %	5.09	B+ (3.59)	B+ (3.62)
+Barrera, Steven James	COGS 101A - Sensation and Perception (A)	FA14	254	119	94.2 %	99.0 %	5.03	B+ (3.54)	B (3.16)
+Marghetis, Tyler	COGS 102A - Distributed Cognition (A)	FA14	167	69	85.2 %	93.4 %	5.57	B+ (3.43)	B+ (3.33)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA14	189	75	84.9 %	87.7 %	6.25	B (3.10)	B- (2.76)
+Huang, He	COGS 109 - Modeling & Data Analysis (A)	FA14	90	36	82.9 %	94.3 %	5.59	A- (3.71)	B+ (3.60)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA14	128	59	92.0 %	90.0 %	5.17	B+ (3.31)	B- (2.89)
+De Sa, Virginia	COGS 118B - Natural Computation II (A)	FA14	16	11	100.0 %	100.0 %	6.50	B+ (3.60)	N/A
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	FA14	10	4	100.0 %	100.0 %	7.17	B+ (3.67)	N/A
+Boroditsky, Lera	COGS 12 - Language, Culture & Cognition (A)	FA14	14	6	100.0 %	100.0 %	4.00	B (3.00)	N/A
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	FA14	36	13	91.7 %	100.0 %	4.83	B (3.17)	B+ (3.32)
+Nunez, Rafael E	COGS 14B - Intro. to Statistical Analysis (A)	FA14	37	12	45.5 %	45.5 %	3.39	B+ (3.33)	C+ (2.47)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	FA14	21	6	66.7 %	83.3 %	5.17	B (3.00)	B+ (3.43)
+Creel, Sarah	COGS 156 - Language Development (B)	FA14	41	9	75.0 %	75.0 %	6.00	B (3.00)	B- (2.89)
+Khalil, Alexander K.	COGS 160 - Seminar on Special Topics (A)	FA14	12	8	100.0 %	100.0 %	3.75	A (4.00)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (C)	FA14	12	5	100.0 %	100.0 %	9.70	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA14	106	49	78.0 %	85.4 %	4.21	B (3.22)	B- (2.78)
+Pineda, Jaime A	COGS 171 - Mirror Neuron System (A)	FA14	22	6	100.0 %	100.0 %	5.70	B+ (3.67)	B+ (3.40)
+Datko, Michael	COGS 174 - Drugs: Brain, Mind and Culture (A)	FA14	78	62	100.0 %	96.5 %	4.96	B (3.27)	B (3.07)
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (A)	FA14	33	14	92.3 %	69.2 %	10.00	B+ (3.42)	A- (3.71)
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (B)	FA14	45	9	66.7 %	44.4 %	8.28	B+ (3.50)	A- (3.71)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	FA14	83	73	82.2 %	86.3 %	6.10	B+ (3.59)	B (3.20)
+Karnowski, Jeremy Benjamin	COGS 8 - Hands-On Computing (A)	FA14	32	27	92.6 %	96.3 %	3.54	B+ (3.60)	B+ (3.63)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	FA14	21	11	100.0 %	100.0 %	0.50	A (4.00)	N/A
+Voytek, Bradley Thomas	COGS 9 - Introduction to Data Science (A)	FA14	24	14	100.0 %	100.0 %	3.41	A (4.00)	A- (3.72)
+Amsel, Ben David	COGS 101B - Learning, Memory and Attention (A)	S214	16	3	66.7 %	100.0 %	12.50	B+ (3.67)	N/A
+Huang, He	COGS 109 - Modeling & Data Analysis (A)	S214	51	31	93.5 %	100.0 %	5.79	A- (3.90)	A- (3.93)
+Armenta, Richard Frank	COGS 14B - Intro. to Statistical Analysis (A)	S214	14	9	88.9 %	100.0 %	5.83	A- (3.78)	N/A
+Yang, Dorothy D	COGS 154 - Comm Disorders/Children&Adults (A)	S214	44	8	87.5 %	100.0 %	4.75	B+ (3.43)	B- (2.99)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	S214	18	4	100.0 %	75.0 %	5.50	B+ (3.67)	N/A
+Boyle, Mary E. T.	COGS 187A - Usability & Info. Architecture (A)	S214	20	11	90.0 %	100.0 %	5.10	A (4.00)	A (4.00)
+Coulson, Seana M	COGS 101C - Language (A)	S114	25	3	66.7 %	66.7 %	4.50	C+ (2.33)	B- (2.91)
+Johnson, Christine M.	COGS 102A - Distributed Cognition (A)	S114	21	4	100.0 %	100.0 %	4.50	B+ (3.67)	B+ (3.48)
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	S114	25	3	100.0 %	100.0 %	7.83	B+ (3.67)	B (3.11)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	S114	20	7	100.0 %	100.0 %	6.50	A- (3.71)	B+ (3.61)
+Walker, Esther Jane	COGS 155 - Gesture and Cognition (A)	S114	14	5	100.0 %	100.0 %	4.90	B+ (3.40)	N/A
+Datko, Michael	COGS 174 - Drugs: Brain, Mind and Culture (A)	S114	28	19	94.1 %	94.1 %	5.68	B (3.12)	B (3.08)
+Amsel, Ben David	COGS 1 - Introduction to Cognitive Sci (A)	SP14	194	73	75.4 %	76.8 %	3.85	B (3.02)	B- (2.96)
+Creel, Sarah	COGS 101B - Learning, Memory and Attention (A)	SP14	219	84	85.7 %	79.2 %	3.79	B+ (3.39)	B (3.06)
+Hollan, James D.	COGS 102C - Cognitive Design Studio (A)	SP14	84	24	87.0 %	78.3 %	9.80	B+ (3.48)	B (3.19)
+Jernigan, Terry Lynne	COGS 107C - Cognitive Neuroscience (A)	SP14	193	55	42.6 %	38.9 %	4.01	B (3.15)	B- (2.95)
+Boroditsky, Lera	COGS 11 - Minds & Brains (A)	SP14	78	36	94.3 %	94.3 %	4.09	B (3.27)	B (3.12)
+Haist, Frank	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	SP14	44	20	85.0 %	90.0 %	6.30	B+ (3.47)	B- (2.72)
+Weibel, Nadir	COGS 121 - Human Comptr Interac Prog Stud (A)	SP14	43	13	58.3 %	58.3 %	7.83	B (3.25)	B (3.19)
+Barrera, Steven James	COGS 14A - Intro. to Research Methods (A)	SP14	118	66	96.9 %	100.0 %	4.44	B+ (3.44)	B (3.01)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	SP14	29	6	33.3 %	33.3 %	4.50	B (3.17)	B (3.22)
+Marghetis, Tyler	COGS 152 - Cognitive Foundations of Math (A)	SP14	36	10	100.0 %	100.0 %	5.30	B (3.14)	B- (2.93)
+Creel, Sarah	COGS 156 - Language Development (A)	SP14	96	35	87.1 %	93.5 %	3.17	B (3.26)	B (3.01)
+Kirsh, David Joel	COGS 160 - Seminar on Special Topics (C)	SP14	13	3	66.7 %	100.0 %	4.50	A (4.00)	N/A
+Cohn, Neil Thomas	COGS 160 - Seminar on Special Topics (D)	SP14	24	9	77.8 %	88.9 %	6.06	A (4.00)	A- (3.79)
+Coulson, Seana M	COGS 160 - Seminar on Special Topics (E)	SP14	15	4	100.0 %	100.0 %	10.50	A (4.00)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (F)	SP14	14	3	100.0 %	100.0 %	11.17	A (4.00)	N/A
+Boyle, Mary E. T.	COGS 163 - Metabolic Disorders/Brain (C)	SP14	30	9	100.0 %	100.0 %	7.36	B+ (3.63)	B+ (3.53)
+Greenspan, Ralph J.	COGS 169 - Genetic Information/Behavior (A)	SP14	14	3	100.0 %	100.0 %	3.50	B+ (3.50)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP14	107	39	82.1 %	87.2 %	4.97	B (3.10)	B- (2.96)
+Pineda, Jaime A	COGS 175 - Alternate States/Consciousness (A)	SP14	40	13	92.3 %	92.3 %	4.35	B+ (3.31)	B- (2.74)
+Yu, Angela J.	COGS 180 - Neural Coding/Sensory Systems (A)	SP14	5	5	100.0 %	100.0 %	6.90	B+ (3.50)	N/A
+Johnson, Christine M.	COGS 184 - Modeling/Evolution of Cognitn (A)	SP14	23	8	87.5 %	100.0 %	5.75	B (3.13)	B- (2.97)
+Tu, Zhuowen	COGS 185 - Adv. Machine Learning Methods (A)	SP14	10	4	100.0 %	100.0 %	11.50	B+ (3.67)	N/A
+Kirsh, David Joel	COGS 187B - Practicum in Pro Web Design (A)	SP14	45	13	100.0 %	92.3 %	7.67	B+ (3.69)	B+ (3.41)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	SP14	67	18	56.3 %	56.3 %	8.63	B+ (3.40)	B+ (3.33)
+Hutchins, Edwin Lee	COGS 8 - Hands-On Computing (A)	SP14	25	15	100.0 %	100.0 %	2.50	B+ (3.58)	B+ (3.70)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	SP14	17	5	100.0 %	100.0 %	0.50	N/A	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	SP14	17	7	100.0 %	100.0 %	0.79	N/A	N/A
+Deak, Gedeon O.	COGS 1 - Introduction to Cognitive Sci (A)	WI14	234	93	79.1 %	89.0 %	3.74	B+ (3.35)	C+ (2.64)
+Hollan, James D.	COGS 10 - Cognitv Consequence/Technology (A)	WI14	26	10	80.0 %	90.0 %	4.90	B+ (3.43)	B (3.15)
+Bergen, Benjamin	COGS 101C - Language (A)	WI14	168	67	75.0 %	76.6 %	4.44	B (3.15)	B- (2.98)
+Hutchins, Edwin Lee	COGS 102B - Cognitive Ethnography (A)	WI14	166	52	66.0 %	86.0 %	5.42	B (3.27)	B+ (3.33)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI14	224	68	87.1 %	77.4 %	5.76	B (3.25)	B- (2.83)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	WI14	121	60	94.7 %	87.7 %	4.22	B+ (3.52)	B+ (3.31)
+Tu, Zhuowen	COGS 118A - Natural Computation I (A)	WI14	26	15	85.7 %	85.7 %	8.64	B+ (3.42)	A- (3.76)
+Boroditsky, Lera	COGS 12 - Language, Culture & Cognition (A)	WI14	8	4	75.0 %	100.0 %	4.50	B+ (3.33)	N/A
+Klemmer, Scott R	COGS 120 - Introduction to HCI Design (A)	WI14	96	37	73.5 %	79.4 %	9.89	B (3.22)	B+ (3.39)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	WI14	41	17	94.1 %	94.1 %	4.50	B+ (3.56)	B+ (3.48)
+Barrera, Steven James	COGS 14B - Intro. to Statistical Analysis (A)	WI14	80	50	100.0 %	100.0 %	4.80	B+ (3.60)	B (3.13)
+Bergen, Benjamin	COGS 15 - Uncensored Intro. to Language (A)	WI14	46	25	91.3 %	95.7 %	3.89	B+ (3.32)	B+ (3.37)
+Bergen, Benjamin	COGS 160 - Seminar on Special Topics (A)	WI14	11	4	100.0 %	100.0 %	12.50	B (3.00)	N/A
+Chiba, Andrea	COGS 160 - Seminar on Special Topics (C)	WI14	17	7	100.0 %	100.0 %	3.36	A- (3.83)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI14	64	31	86.2 %	96.6 %	6.50	B (3.24)	B- (2.92)
+Amsel, Ben David	COGS 172 - Brain Disorders and Cognition (A)	WI14	66	27	96.2 %	96.2 %	4.65	B+ (3.32)	B+ (3.35)
+Pineda, Jaime A	COGS 174 - Drugs: Brain, Mind and Culture (A)	WI14	115	42	95.0 %	97.5 %	4.24	B+ (3.46)	B (3.08)
+Nitz, Douglas A.	COGS 176 - From Sleep to Attention (A)	WI14	37	14	92.9 %	85.7 %	4.64	B+ (3.64)	B+ (3.63)
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (A)	WI14	73	21	71.4 %	57.1 %	11.40	B+ (3.48)	B+ (3.50)
+De Sa, Virginia	COGS 189 - Brain Computer Interfaces (A)	WI14	20	9	100.0 %	100.0 %	5.93	A- (3.88)	A (4.00)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI14	84	34	62.5 %	62.5 %	8.63	B+ (3.50)	B- (2.98)
+Pineda, Jaime A	COGS 87 - Freshman Seminar (A)	WI14	22	15	80.0 %	86.7 %	0.50	A (4.00)	N/A
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (B)	WI14	17	7	85.7 %	85.7 %	1.17	A (4.00)	N/A
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	FA13	369	204	71.8 %	77.9 %	4.85	B (3.28)	B- (2.80)
+Hollan, James D.	COGS 10 - Cognitv Consequence/Technology (A)	FA13	17	7	83.3 %	83.3 %	5.17	A- (3.75)	N/A
+Barrera, Steven James	COGS 101A - Sensation and Perception (A)	FA13	214	95	96.8 %	97.8 %	4.63	B+ (3.47)	B (3.05)
+Hutchins, Edwin Lee	COGS 102A - Distributed Cognition (A)	FA13	170	73	53.8 %	76.9 %	5.16	B+ (3.31)	B (3.25)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA13	206	89	89.0 %	85.4 %	6.16	B (3.01)	B- (2.91)
+De Sa, Virginia	COGS 109 - Modeling & Data Analysis (A)	FA13	96	46	61.4 %	77.3 %	5.40	B+ (3.48)	B+ (3.64)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA13	140	75	90.3 %	93.1 %	5.60	B+ (3.30)	B (3.19)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA13	82	31	71.4 %	46.4 %	4.50	B+ (3.33)	B (3.02)
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	FA13	27	9	100.0 %	75.0 %	4.50	B+ (3.38)	B (3.14)
+Urgen, Burcu A	COGS 119 - Programming/Experimental Res. (B)	FA13	31	12	81.8 %	81.8 %	9.59	B+ (3.36)	B+ (3.31)
+Nunez, Rafael E	COGS 14A - Intro. to Research Methods (A)	FA13	113	51	85.4 %	95.8 %	4.41	B+ (3.34)	B (3.04)
+Creel, Sarah	COGS 157 - Music and the Mind (A)	FA13	32	16	87.5 %	87.5 %	4.88	B+ (3.47)	B+ (3.56)
+Reynolds, Bryan Randolph	COGS 160 - Seminar on Special Topics (B)	FA13	5	3	100.0 %	100.0 %	4.50	B+ (3.33)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA13	116	59	91.4 %	91.4 %	5.29	B (3.23)	B (3.05)
+Pineda, Jaime A	COGS 171 - Mirror Neuron System (A)	FA13	42	18	88.9 %	88.9 %	6.39	B+ (3.33)	B (3.04)
+Nunez, Rafael E	COGS 87 - Freshman Seminar (A)	FA13	17	15	85.7 %	85.7 %	1.36	A (4.00)	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	FA13	23	16	75.0 %	81.3 %	0.75	A (4.00)	N/A
+Barrera, Steven James	COGS 101A - Sensation and Perception (A)	S213	28	15	93.3 %	100.0 %	6.23	B+ (3.53)	B+ (3.39)
+Coulson, Seana M	COGS 101C - Language (A)	S213	25	4	100.0 %	100.0 %	3.50	B+ (3.33)	C+ (2.70)
+Pineda, Jaime A	COGS 107B - Systems Neuroscience (A)	S213	32	7	85.7 %	85.7 %	5.36	B (3.00)	B- (2.82)
+Malave, Vicente L	COGS 109 - Modeling & Data Analysis (A)	S213	86	25	59.1 %	40.9 %	4.59	B+ (3.61)	A- (3.71)
+Marghetis, Tyler	COGS 151 - Analogy and Conceptual Systems (A)	S213	12	4	100.0 %	100.0 %	5.17	B+ (3.50)	N/A
+Metusalem, Ross	COGS 153 - Language Comprehension (A)	S213	20	6	100.0 %	83.3 %	8.83	B+ (3.60)	B- (2.94)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	S213	19	6	100.0 %	100.0 %	7.00	B (3.25)	N/A
+Boyle, Mary E. T.	COGS 187A - Usability & Info. Architecture (A)	S213	19	4	100.0 %	66.7 %	9.17	B+ (3.67)	N/A
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	S213	24	5	60.0 %	100.0 %	7.00	A (4.00)	B+ (3.33)
+Johnson, Christine M.	COGS 102A - Distributed Cognition (A)	S113	23	3	66.7 %	100.0 %	5.17	B+ (3.33)	B (3.25)
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	S113	45	11	80.0 %	80.0 %	10.06	B (3.22)	B (3.15)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	S113	23	12	83.3 %	100.0 %	8.50	B+ (3.50)	B+ (3.58)
+Davenport, Tristan	COGS 14A - Intro. to Research Methods (A)	S113	33	6	60.0 %	100.0 %	5.30	B- (2.80)	B- (2.70)
+Ellis, Erica Michelle	COGS 154 - Comm Disorders/Children&Adults (A)	S113	64	34	97.0 %	87.9 %	5.75	B+ (3.67)	B+ (3.70)
+Yu, Angela J.	COGS 1 - Introduction to Cognitive Sci (A)	SP13	273	82	71.8 %	78.2 %	3.51	B+ (3.45)	B+ (3.36)
+Bergen, Benjamin	COGS 101C - Language (A)	SP13	318	92	88.0 %	94.6 %	4.80	B (3.25)	B- (2.95)
+Hollan, James D.	COGS 102C - Cognitive Design Studio (A)	SP13	111	25	87.5 %	70.8 %	9.86	B+ (3.52)	B (3.19)
+Jernigan, Terry Lynne	COGS 107C - Cognitive Neuroscience (A)	SP13	291	89	75.0 %	67.0 %	3.73	A- (3.79)	A- (3.94)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SP13	118	45	97.8 %	95.6 %	6.18	B (3.15)	B (3.05)
+Deak, Gedeon O.	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	SP13	52	17	64.7 %	88.2 %	4.63	B+ (3.53)	B+ (3.46)
+Nunez, Rafael E	COGS 14B - Intro. to Statistical Analysis (A)	SP13	42	10	90.0 %	100.0 %	4.28	B- (2.70)	C+ (2.36)
+Bergen, Benjamin	COGS 15 - Uncensored Intro. to Language (A)	SP13	62	26	92.3 %	92.3 %	4.42	B+ (3.37)	B (3.07)
+Creel, Sarah	COGS 156 - Language Development (A)	SP13	82	26	96.2 %	100.0 %	3.81	B+ (3.40)	B (3.26)
+Coulson, Seana M	COGS 160 - Seminar on Special Topics (A)	SP13	14	5	100.0 %	100.0 %	10.50	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP13	131	41	87.8 %	97.6 %	3.90	B (3.17)	B- (2.79)
+Pineda, Jaime A	COGS 175 - Alternate States/Consciousness (A)	SP13	83	23	86.4 %	86.4 %	5.17	B+ (3.43)	B (3.17)
+Johnson, Christine M.	COGS 184 - Modeling/Evolution of Cognitn (A)	SP13	36	6	100.0 %	100.0 %	9.70	B+ (3.40)	B (3.23)
+Kirsh, David Joel	COGS 187B - Practicum in Pro Web Design (A)	SP13	44	14	100.0 %	100.0 %	11.88	A- (3.77)	B+ (3.56)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	SP13	85	32	65.6 %	68.8 %	6.38	B+ (3.54)	B+ (3.30)
+Hutchins, Edwin Lee	COGS 8 - Hands-On Computing (A)	SP13	20	8	87.5 %	100.0 %	4.50	B (3.29)	B+ (3.35)
+Coulson, Seana M	COGS 87 - Freshman Seminar (A)	SP13	12	9	100.0 %	100.0 %	0.50	A (4.00)	N/A
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (B)	SP13	13	4	100.0 %	100.0 %	0.50	N/A	N/A
+Nunez, Rafael E	COGS 87 - Freshman Seminar (C)	SP13	16	7	71.4 %	85.7 %	0.79	B (3.00)	N/A
+Saygin, Ayse P	COGS 1 - Introduction to Cognitive Sci (A)	WI13	313	143	83.2 %	86.9 %	3.49	B+ (3.30)	B- (2.85)
+Creel, Sarah	COGS 101B - Learning, Memory and Attention (A)	WI13	318	118	80.0 %	70.4 %	4.64	B+ (3.35)	B (3.27)
+Hutchins, Edwin Lee	COGS 102B - Cognitive Ethnography (A)	WI13	289	106	72.8 %	91.3 %	5.41	A- (3.71)	B+ (3.38)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI13	310	110	88.9 %	82.4 %	5.42	B (3.14)	B- (2.72)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	WI13	126	60	96.6 %	96.6 %	4.64	B+ (3.36)	B (3.10)
+De Sa, Virginia	COGS 118B - Natural Computation II (A)	WI13	20	14	92.3 %	92.3 %	6.35	B+ (3.69)	A- (3.87)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	WI13	44	18	100.0 %	100.0 %	5.06	B (3.19)	B (3.18)
+Davenport, Tristan	COGS 14A - Intro. to Research Methods (A)	WI13	112	47	66.0 %	87.2 %	4.02	B (3.07)	C+ (2.69)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	WI13	24	9	77.8 %	88.9 %	5.00	B+ (3.38)	A- (3.74)
+Bergen, Benjamin	COGS 160 - Seminar on Special Topics (B)	WI13	8	3	100.0 %	100.0 %	7.17	A (4.00)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (C)	WI13	14	5	100.0 %	100.0 %	6.50	A (4.00)	N/A
+De Sa, Virginia	COGS 160 - Seminar on Special Topics (D)	WI13	11	5	100.0 %	100.0 %	4.50	A (4.00)	N/A
+Jernigan, Terry Lynne	COGS 160 - Seminar on Special Topics (E)	WI13	14	5	40.0 %	80.0 %	6.50	B- (2.80)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI13	127	61	86.7 %	90.0 %	4.40	B (3.20)	B- (2.87)
+Saygin, Ayse P	COGS 172 - Brain Disorders and Cognition (A)	WI13	48	21	81.0 %	85.7 %	5.70	B (3.29)	B (3.27)
+Schalles, Matthew D	COGS 174 - Drugs: Brain, Mind and Culture (A)	WI13	126	47	84.4 %	82.2 %	5.66	B- (2.86)	B- (2.97)
+Nitz, Douglas A.	COGS 177 - Space and Time in the Brain (A)	WI13	18	9	100.0 %	100.0 %	5.39	B+ (3.44)	N/A
+Kirsh, David Joel	COGS 187A - Usability & Info. Architecture (B)	WI13	61	24	95.8 %	87.5 %	10.17	B+ (3.46)	B+ (3.48)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI13	130	67	80.0 %	83.1 %	6.09	B+ (3.30)	B (3.07)
+Pineda, Jaime A	COGS 87 - Freshman Seminar (A)	WI13	30	20	95.0 %	95.0 %	0.71	A (4.00)	N/A
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (B)	WI13	15	10	100.0 %	100.0 %	0.90	B (3.00)	N/A
+Nunez, Rafael E	COGS 91 - SCANS Presents (A)	WI13	11	7	100.0 %	100.0 %	0.50	A (4.00)	N/A
+Creel, Sarah	COGS 1 - Introduction to Cognitive Sci (A)	FA12	331	150	87.0 %	93.1 %	3.65	B+ (3.69)	B (3.20)
+Barrera, Steven James	COGS 101A - Sensation and Perception (A)	FA12	296	146	97.7 %	97.7 %	5.01	B+ (3.50)	B (3.15)
+Johnson, Christine M.	COGS 102A - Distributed Cognition (A)	FA12	289	100	61.7 %	71.3 %	5.66	B+ (3.36)	B+ (3.61)
+Kirsh, David Joel	COGS 102A - Distributed Cognition (A)	FA12	289	103	52.6 %	69.5 %	5.59	B+ (3.33)	B+ (3.61)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA12	307	114	82.5 %	84.5 %	6.95	B (3.13)	B- (2.85)
+De Sa, Virginia	COGS 109 - Modeling & Data Analysis (A)	FA12	117	42	68.4 %	76.3 %	5.96	B+ (3.46)	B+ (3.48)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA12	157	77	92.8 %	94.2 %	5.22	B+ (3.61)	B (3.21)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA12	55	13	84.6 %	69.2 %	4.35	B+ (3.36)	B (3.15)
+Saygin, Ayse P	COGS 119 - Programming/Experimental Res. (A)	FA12	7	4	100.0 %	100.0 %	5.00	A (4.00)	N/A
+Hollan, James D.	COGS 120 - Human Computer Interaction (A)	FA12	109	35	83.3 %	80.0 %	5.77	B (3.14)	B (3.16)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	FA12	13	7	100.0 %	100.0 %	9.50	A (4.00)	N/A
+Nunez, Rafael E	COGS 160 - Seminar on Special Topics (B)	FA12	58	26	81.8 %	95.5 %	3.41	B+ (3.41)	B (3.16)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA12	138	68	91.5 %	93.2 %	5.86	B (3.13)	B- (2.96)
+Pineda, Jaime A	COGS 171 - Mirror Neuron System (A)	FA12	57	19	84.2 %	94.7 %	6.08	B (3.17)	B (3.09)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	FA12	125	49	80.0 %	88.9 %	5.97	B+ (3.38)	B (3.13)
+Coulson, Seana M	COGS 87 - Freshman Seminar (A)	FA12	26	19	76.5 %	76.5 %	1.56	A (4.00)	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	FA12	34	21	90.0 %	100.0 %	0.50	A (4.00)	N/A
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (C)	FA12	26	17	73.3 %	80.0 %	0.50	B+ (3.67)	N/A
+Kutas, Marta	COGS 91 - SCANS Presents (A)	FA12	23	14	92.3 %	100.0 %	0.50	A (4.00)	N/A
+Schul, Rina S.F.	COGS 92 - Resiliency/Face of Adversity (B)	FA12	24	10	80.0 %	80.0 %	1.30	A (4.00)	N/A
+Johnson, Christine M.	COGS 101A - Sensation and Perception (A)	S212	81	20	90.0 %	90.0 %	6.80	B+ (3.30)	B (3.03)
+Barrera, Steven James	COGS 14 - Design & Analysis of Expermnts (A)	S212	42	16	93.3 %	93.3 %	5.70	B+ (3.50)	B (3.20)
+Marghetis, Tyler	COGS 151 - Analogy and Conceptual Systems (A)	S212	25	7	100.0 %	85.7 %	5.36	A- (3.83)	B+ (3.44)
+Gupta, Anjum	COGS 188 - Representation,Search&the Web (A)	S212	9	5	100.0 %	80.0 %	7.30	B+ (3.40)	N/A
+Kraus, Timothy B	COGS 3 - An Introduction to Computing (A)	S212	16	4	100.0 %	50.0 %	10.00	A- (3.75)	N/A
+Davenport, Tristan	COGS 101C - Language (A)	S112	50	14	85.7 %	92.9 %	5.79	B (3.17)	B (3.09)
+Boyle, Mary E. T.	COGS 107A - Neuroanatomy and Physiology (A)	S112	61	16	87.5 %	66.7 %	11.97	B (3.25)	B (3.28)
+Gupta, Anjum	COGS 109 - Modeling & Data Analysis (A)	S112	119	41	53.7 %	82.9 %	7.62	B (3.10)	B (3.11)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	S112	26	10	90.0 %	100.0 %	8.30	B+ (3.56)	B (3.23)
+Sizemore, Marisa L.	COGS 154 - Comm Disorders/Children&Adults (A)	S112	60	17	94.1 %	82.4 %	5.91	A- (3.76)	B+ (3.58)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	S112	32	14	92.3 %	92.3 %	6.21	A- (3.73)	B+ (3.32)
+Coulson, Seana M	COGS 1 - Introduction to Cognitive Sci (A)	SP12	211	90	92.0 %	97.7 %	4.27	B+ (3.62)	B+ (3.33)
+Bergen, Benjamin	COGS 101C - Language (A)	SP12	181	84	73.8 %	88.1 %	5.75	B (3.13)	B- (2.70)
+Bergen, Benjamin	COGS 101C - Language (B)	SP12	79	37	81.1 %	100.0 %	5.42	B (3.17)	B- (2.70)
+Hollan, James D.	COGS 102C - Cognitive Design Studio (A)	SP12	77	32	75.0 %	78.1 %	11.00	B+ (3.52)	B (3.22)
+Jernigan, Terry Lynne	COGS 107C - Cognitive Neuroscience (A)	SP12	173	76	85.1 %	67.6 %	3.45	A- (3.95)	A- (3.94)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SP12	123	46	91.3 %	93.5 %	6.24	B (3.11)	B- (2.86)
+Tumlin, Melanie A	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	SP12	85	38	81.6 %	89.2 %	4.55	B+ (3.39)	B- (2.72)
+Creel, Sarah	COGS 14 - Design & Analysis of Expermnts (A)	SP12	121	48	66.0 %	70.2 %	4.80	B (3.24)	B- (2.77)
+Bergen, Benjamin	COGS 15 - Uncensored Intro. to Language (A)	SP12	46	20	100.0 %	100.0 %	4.39	B+ (3.56)	B- (2.99)
+Nunez, Rafael E	COGS 152 - Cognitive Foundations of Math (A)	SP12	48	24	91.7 %	100.0 %	4.83	B+ (3.48)	B (3.16)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	SP12	9	4	100.0 %	100.0 %	10.50	A (4.00)	N/A
+Coulson, Seana M	COGS 160 - Seminar on Special Topics (C)	SP12	11	3	100.0 %	100.0 %	7.17	A (4.00)	N/A
+Yu, Angela J.	COGS 160 - Seminar on Special Topics (D)	SP12	9	7	71.4 %	71.4 %	5.64	B+ (3.33)	N/A
+Piper, Anne Marie	COGS 160 - Seminar on Special Topics (E)	SP12	18	6	100.0 %	100.0 %	8.10	B+ (3.67)	N/A
+Pineda, Jaime A	COGS 160 - Seminar on Special Topics (F)	SP12	18	4	100.0 %	100.0 %	5.83	A- (3.75)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP12	137	54	94.4 %	98.1 %	4.72	B+ (3.35)	B- (2.83)
+Nitz, Douglas A.	COGS 176 - From Sleep to Attention (A)	SP12	66	30	93.3 %	100.0 %	4.70	B (3.28)	B (3.18)
+Kirsh, David Joel	COGS 187B - Practicum in Pro Web Design (A)	SP12	32	7	100.0 %	83.3 %	8.50	A- (3.86)	B+ (3.68)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	SP12	112	43	81.0 %	83.3 %	5.98	B+ (3.54)	B- (2.97)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	SP12	15	11	100.0 %	100.0 %	0.72	N/A	N/A
+Deak, Gedeon O.	COGS 1 - Introduction to Cognitive Sci (A)	WI12	299	125	73.6 %	82.4 %	4.00	B (3.14)	B- (2.77)
+Hollan, James D.	COGS 10 - Cognitv Consequence/Technology (A)	WI12	30	16	81.3 %	81.3 %	4.25	B- (2.90)	B+ (3.46)
+Creel, Sarah	COGS 101B - Learning, Memory and Attention (A)	WI12	248	110	87.9 %	81.9 %	4.37	B+ (3.42)	B (3.02)
+Hutchins, Edwin Lee	COGS 102B - Cognitive Ethnography (A)	WI12	203	93	72.0 %	83.9 %	5.06	B+ (3.54)	B (3.24)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI12	215	95	91.5 %	89.4 %	5.05	B+ (3.49)	B- (2.87)
+De Sa, Virginia	COGS 109 - Modeling & Data Analysis (A)	WI12	95	43	44.2 %	46.5 %	6.45	B (3.17)	B+ (3.54)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	WI12	153	63	92.1 %	96.8 %	4.79	B+ (3.45)	B (3.07)
+Shenoy, Pradeep U	COGS 118A - Natural Computation I (A)	WI12	14	8	100.0 %	100.0 %	7.50	A- (3.75)	N/A
+Piper, Anne Marie	COGS 121 - Human Comptr Interac Prog Stud (A)	WI12	53	19	100.0 %	100.0 %	7.72	A- (3.76)	B+ (3.57)
+Nunez, Rafael E	COGS 14 - Design & Analysis of Expermnts (A)	WI12	115	48	78.3 %	97.8 %	4.33	B (3.25)	B- (2.74)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	WI12	48	30	96.7 %	100.0 %	5.43	B+ (3.48)	B+ (3.51)
+Bergen, Benjamin	COGS 160 - Seminar on Special Topics (A)	WI12	12	4	100.0 %	100.0 %	7.50	A (4.00)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (B)	WI12	9	3	66.7 %	66.7 %	10.50	B+ (3.67)	N/A
+Chiba, Andrea	COGS 160 - Seminar on Special Topics (C)	WI12	8	4	100.0 %	100.0 %	3.50	A- (3.75)	N/A
+Kirsh, David Joel	COGS 160 - Seminar on Special Topics (D)	WI12	17	8	50.0 %	87.5 %	7.50	B+ (3.57)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI12	62	24	95.8 %	91.7 %	4.17	B+ (3.45)	B- (2.89)
+Saygin, Ayse P	COGS 172 - Brain Disorders and Cognition (A)	WI12	49	23	100.0 %	87.0 %	5.54	B (3.25)	B (3.20)
+Pineda, Jaime A	COGS 174 - Drugs: Brain, Mind and Culture (A)	WI12	125	52	98.1 %	94.2 %	4.88	B+ (3.37)	B (3.02)
+Kirsh, David Joel	COGS 187A - Cogntv Aspct of Digital Design (A)	WI12	46	14	100.0 %	76.9 %	9.42	B+ (3.69)	B+ (3.60)
+Kernell, Samuel H.	COGS 194 - Research Seminar/Washington DC (A)	WI12	16	3	66.7 %	100.0 %	8.50	A (4.00)	N/A
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI12	116	50	84.0 %	92.0 %	6.06	B+ (3.64)	B (3.03)
+Pineda, Jaime A	COGS 91 - SCANS Presents (A)	WI12	35	19	89.5 %	89.5 %	0.61	A (4.00)	N/A
+Boyle, Mary E. T.	COGS 1 - Introduction to Cognitive Sci (A)	FA11	311	153	81.6 %	87.6 %	5.25	B (3.18)	B- (2.80)
+Johnson, Christine M.	COGS 101A - Sensation and Perception (A)	FA11	223	97	94.8 %	95.9 %	5.20	B+ (3.45)	B (3.05)
+Hutchins, Edwin Lee	COGS 102A - Distributed Cognition (A)	FA11	214	95	54.8 %	62.4 %	5.62	B+ (3.38)	B (3.14)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA11	233	101	94.1 %	94.1 %	6.80	B (3.29)	B- (2.95)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA11	182	81	93.8 %	96.3 %	4.80	B (3.29)	B (3.09)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA11	46	29	75.9 %	75.9 %	4.84	B+ (3.31)	B (3.30)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA11	37	26	92.3 %	80.8 %	5.58	B (3.04)	B (3.30)
+Piper, Anne Marie	COGS 120 - Human Computer Interaction (B)	FA11	71	34	73.5 %	82.4 %	5.21	B (3.13)	B (3.09)
+Nunez, Rafael E	COGS 14 - Design & Analysis of Expermnts (A)	FA11	119	56	69.6 %	80.4 %	4.57	B (3.04)	C+ (2.70)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	FA11	7	5	100.0 %	80.0 %	8.90	A (4.00)	N/A
+De Sa, Virginia	COGS 160 - Seminar on Special Topics (C)	FA11	12	9	100.0 %	100.0 %	5.83	A (4.00)	N/A
+Pineda, Jaime A	COGS 160 - Seminar on Special Topics (E)	FA11	10	6	83.3 %	83.3 %	3.50	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA11	124	70	84.3 %	92.9 %	5.16	B+ (3.30)	B- (2.97)
+Pineda, Jaime A	COGS 171 - Mirror Neuron System (A)	FA11	59	26	73.1 %	96.0 %	5.14	B (3.29)	B (3.09)
+Kernell, Samuel H.	COGS 194 - Research Seminar/Washington DC (A)	FA11	18	4	100.0 %	100.0 %	3.50	B+ (3.50)	N/A
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	FA11	139	61	91.8 %	93.3 %	5.90	B+ (3.64)	B+ (3.36)
+Gupta, Anjum	COGS 109 - Modeling & Data Analysis (A)	S211	64	23	73.9 %	95.7 %	7.63	B+ (3.43)	B (3.21)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	S211	36	20	100.0 %	100.0 %	6.60	B+ (3.37)	B+ (3.34)
+Coulson, Seana M	COGS 101C - Language (A)	S111	37	12	83.3 %	75.0 %	8.67	B (3.27)	C+ (2.66)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	S111	39	16	100.0 %	100.0 %	4.63	A (4.00)	B (3.09)
+Sizemore, Marisa L.	COGS 154 - Comm Disorders/Children&Adults (A)	S111	70	37	97.2 %	83.3 %	6.39	A- (3.73)	B+ (3.30)
+Cooperrider, Kensy A	COGS 155 - Gesture and Cognition (A)	S111	27	12	91.7 %	100.0 %	6.17	B+ (3.58)	B (3.05)
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	S111	22	11	100.0 %	100.0 %	8.70	B (3.11)	B+ (3.33)
+Gupta, Anjum	COGS 18 - Intro/Programming/Cogn Science (A)	S111	52	23	78.3 %	95.7 %	9.28	B+ (3.38)	B- (2.96)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	S111	28	10	100.0 %	100.0 %	8.10	A- (3.86)	B+ (3.39)
+Yu, Angela J.	COGS 1 - Introduction to Cognitive Sci (A)	SP11	252	123	82.0 %	87.7 %	3.62	B+ (3.56)	B (3.28)
+Bergen, Benjamin	COGS 101C - Language (A)	SP11	191	91	74.4 %	80.0 %	5.46	B (3.06)	B- (2.92)
+Hollan, James D.	COGS 102C - Cognitive Design Studio (A)	SP11	65	25	76.0 %	92.0 %	9.94	B+ (3.52)	B+ (3.37)
+Barrera, Steven James	COGS 107C - Cognitive Neuroscience (A)	SP11	155	84	96.4 %	100.0 %	4.69	B+ (3.51)	B (3.23)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SP11	185	62	95.1 %	91.8 %	5.18	B (3.21)	B- (2.97)
+De Sa, Virginia	COGS 118B - Natural Computation II (A)	SP11	32	14	85.7 %	85.7 %	6.93	B+ (3.50)	B+ (3.67)
+Nunez, Rafael E	COGS 14 - Design & Analysis of Expermnts (A)	SP11	119	34	75.0 %	75.0 %	4.25	B (3.17)	C+ (2.38)
+Creel, Sarah	COGS 156 - Language Development (A)	SP11	113	55	86.8 %	84.9 %	4.84	B+ (3.42)	B- (2.96)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	SP11	7	5	100.0 %	100.0 %	7.30	A (4.00)	N/A
+Yu, Angela J.	COGS 160 - Seminar on Special Topics (B)	SP11	12	11	100.0 %	90.9 %	6.14	B (3.27)	N/A
+Kirsh, David Joel	COGS 160 - Seminar on Special Topics (C)	SP11	13	7	100.0 %	85.7 %	7.07	A- (3.71)	N/A
+Bergen, Benjamin	COGS 160 - Seminar on Special Topics (D)	SP11	8	6	100.0 %	100.0 %	7.83	A (4.00)	N/A
+Pineda, Jaime A	COGS 160 - Seminar on Special Topics (E)	SP11	21	11	100.0 %	90.9 %	2.30	A- (3.90)	B+ (3.57)
+Nitz, Douglas A.	COGS 160 - Seminar on Special Topics (F)	SP11	12	6	100.0 %	100.0 %	4.83	A- (3.83)	N/A
+Kirsh, David Joel	COGS 160 - Seminar on Special Topics (G)	SP11	8	3	66.7 %	100.0 %	11.50	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP11	144	64	93.8 %	93.8 %	5.04	B+ (3.32)	B- (2.91)
+Marx, Susan S	COGS 18 - Intro/Programming/Cogn Science (A)	SP11	101	41	72.5 %	85.0 %	9.25	B (3.13)	C+ (2.63)
+Johnson, Christine M.	COGS 184 - Modeling/Evolution of Cognitn (A)	SP11	43	15	93.3 %	100.0 %	5.17	B+ (3.64)	B (3.22)
+Kirsh, David Joel	COGS 187B - Cogn Aspct of Digital DesignII (A)	SP11	19	8	75.0 %	87.5 %	9.00	B+ (3.50)	N/A
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	SP11	173	55	94.4 %	92.6 %	5.50	B+ (3.67)	B (3.14)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (A)	SP11	18	10	100.0 %	70.0 %	1.10	A (4.00)	N/A
+Kutas, Marta	COGS 91 - SCANS Presents (A)	SP11	20	12	91.7 %	100.0 %	0.67	A (4.00)	N/A
+Schul, Rina S.F.	COGS 92 - Resiliency/Face of Adversity (A)	SP11	7	5	80.0 %	100.0 %	2.10	N/A	N/A
+Saygin, Ayse P	COGS 1 - Introduction to Cognitive Sci (A)	WI11	244	129	86.8 %	91.4 %	4.02	B+ (3.52)	B (3.05)
+Creel, Sarah	COGS 101B - Learning, Memory and Attention (A)	WI11	196	99	84.8 %	84.8 %	4.46	B+ (3.39)	B (3.15)
+Hutchins, Edwin Lee	COGS 102B - Cognitive Ethnography (A)	WI11	147	88	71.6 %	88.6 %	5.07	B+ (3.56)	B+ (3.38)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI11	172	89	89.9 %	93.3 %	4.88	B+ (3.45)	B (3.03)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	WI11	197	108	99.1 %	99.1 %	4.56	B+ (3.61)	B+ (3.62)
+Nunez, Rafael E	COGS 14 - Design & Analysis of Expermnts (A)	WI11	83	37	78.4 %	89.2 %	5.80	B- (2.94)	C+ (2.33)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	WI11	42	23	91.3 %	100.0 %	5.37	B+ (3.40)	B+ (3.41)
+Bergen, Benjamin	COGS 153 - Language Comprehension (A)	WI11	32	18	88.9 %	94.1 %	4.74	B+ (3.44)	B (3.06)
+Nunez, Rafael E	COGS 160 - Seminar on Special Topics (A)	WI11	7	4	100.0 %	100.0 %	2.50	A (4.00)	N/A
+Kirsh, David Joel	COGS 160 - Seminar on Special Topics (B)	WI11	15	7	100.0 %	100.0 %	14.50	A (4.00)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (D)	WI11	12	8	100.0 %	100.0 %	8.75	A- (3.88)	N/A
+Bergen, Benjamin	COGS 160 - Seminar on Special Topics (E)	WI11	6	6	100.0 %	100.0 %	7.50	A (4.00)	N/A
+Nitz, Douglas A.	COGS 160 - Seminar on Special Topics (F)	WI11	9	5	100.0 %	100.0 %	6.00	A (4.00)	N/A
+Pineda, Jaime A	COGS 160 - Seminar on Special Topics (G)	WI11	8	5	100.0 %	100.0 %	3.70	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	WI11	143	70	86.8 %	97.1 %	4.79	B+ (3.32)	B- (2.84)
+Pineda, Jaime A	COGS 174 - Drugs: Brain, Mind and Culture (A)	WI11	124	59	93.2 %	81.4 %	5.31	B (3.28)	B (3.05)
+Kutas, Marta	COGS 179 - Electrophysiology of Cognition (A)	WI11	13	6	83.3 %	83.3 %	8.17	B (3.17)	N/A
+Belew, Richard K	COGS 18 - Intro/Programming/Cogn Science (A)	WI11	33	30	60.0 %	60.0 %	12.30	B (3.11)	B+ (3.40)
+Kirsh, David Joel	COGS 187A - Cogntv Aspct of Digital Design (A)	WI11	29	18	100.0 %	100.0 %	9.28	A- (3.72)	A- (3.70)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI11	121	46	90.7 %	90.7 %	5.05	A- (3.72)	C+ (2.58)
+Bergen, Benjamin	COGS 1 - Introduction to Cognitive Sci (A)	FA10	232	126	92.0 %	96.0 %	3.56	B+ (3.50)	B- (2.91)
+Cangiano, Gaston R	COGS 10 - Cognitv Consequence/Technology (A)	FA10	43	27	85.2 %	70.4 %	3.76	B+ (3.50)	B (3.06)
+Johnson, Christine M.	COGS 101A - Sensation and Perception (A)	FA10	165	102	90.2 %	94.1 %	5.34	B+ (3.43)	B (3.02)
+Hutchins, Edwin Lee	COGS 102A - Distributed Cognition (A)	FA10	177	116	62.9 %	81.9 %	5.60	B (3.25)	B (3.11)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA10	206	164	90.2 %	90.1 %	6.76	B (3.10)	B- (2.79)
+De Sa, Virginia	COGS 109 - Modeling & Data Analysis (A)	FA10	94	56	35.7 %	30.9 %	7.55	B (3.29)	B+ (3.57)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA10	191	106	98.1 %	96.2 %	4.96	B+ (3.46)	B (3.22)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA10	55	22	77.3 %	72.7 %	5.95	B (3.14)	B- (2.92)
+Hollan, James D.	COGS 120 - Human Computer Interaction (A)	FA10	79	40	82.5 %	75.0 %	4.50	B (3.06)	B+ (3.33)
+Creel, Sarah	COGS 14 - Design & Analysis of Expermnts (A)	FA10	94	51	63.3 %	65.3 %	4.74	B (3.14)	B- (2.96)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	FA10	18	7	100.0 %	85.7 %	4.21	B+ (3.67)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	FA10	10	4	100.0 %	100.0 %	7.00	A (4.00)	N/A
+Bergen, Benjamin	COGS 160 - Seminar on Special Topics (B)	FA10	7	6	100.0 %	100.0 %	6.17	A (4.00)	N/A
+Nitz, Douglas A.	COGS 160 - Seminar on Special Topics (D)	FA10	11	7	100.0 %	100.0 %	6.50	A (4.00)	N/A
+Nitz, Douglas A.	COGS 160 - Seminar on Special Topics (F)	FA10	10	6	100.0 %	100.0 %	3.30	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA10	137	77	82.9 %	90.9 %	5.80	B (3.21)	B (3.01)
+Saygin, Ayse P	COGS 172 - Brain Disorders and Cognition (A)	FA10	62	30	86.7 %	76.7 %	5.63	B+ (3.38)	C+ (2.70)
+Trottier, Leo G	COGS 18 - Intro/Programming/Cogn Science (A)	FA10	65	60	46.7 %	37.3 %	10.03	B- (2.98)	B (3.08)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	FA10	147	72	94.4 %	97.2 %	4.78	B+ (3.63)	B- (2.97)
+Pineda, Jaime A	COGS 87 - Freshman Seminar (A)	FA10	20	12	91.7 %	100.0 %	0.67	A (4.00)	N/A
+Coulson, Seana M	COGS 87 - Freshman Seminar (B)	FA10	17	9	77.8 %	87.5 %	0.50	N/A	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (C)	FA10	19	13	84.6 %	84.6 %	1.73	A (4.00)	N/A
+Schul, Rina S.F.	COGS 92 - Resiliency/Face of Adversity (A)	FA10	13	8	87.5 %	87.5 %	1.50	A (4.00)	N/A
+Barrera, Steven James	COGS 101A - Sensation and Perception (A)	SU10	54	24	91.7 %	100.0 %	5.33	B+ (3.42)	N/A
+Coulson, Seana M	COGS 101C - Language (B)	SU10	32	11	81.8 %	90.9 %	5.23	B+ (3.30)	N/A
+Gupta, Anjum	COGS 109 - Modeling & Data Analysis (A)	SU10	54	27	66.7 %	81.5 %	6.65	B+ (3.33)	N/A
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SU10	22	9	88.9 %	88.9 %	4.50	A- (3.71)	N/A
+McQuire, Marguerite	COGS 154 - Comm Disorders/Children&Adults (A)	SU10	70	25	96.0 %	76.0 %	5.62	B+ (3.61)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SU10	20	12	100.0 %	100.0 %	7.23	A- (3.73)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SU10	17	6	66.7 %	100.0 %	5.17	B+ (3.33)	N/A
+Trottier, Leo G	COGS 18 - Intr/C Programming/Cogntv Modl (A)	SU10	24	8	62.5 %	62.5 %	17.75	B- (2.75)	N/A
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	SU10	25	7	100.0 %	100.0 %	6.21	B+ (3.57)	N/A
+Deak, Gedeon O.	COGS 1 - Introduction to Cognitive Sci (A)	SP10	208	106	85.6 %	84.2 %	3.64	B+ (3.39)	B- (2.95)
+Nunez, Rafael E	COGS 101C - Language (A)	SP10	198	109	61.5 %	78.9 %	5.15	B (3.06)	B- (2.77)
+Hollan, James D.	COGS 102C - Cognitive Design Studio (A)	SP10	77	40	92.5 %	87.5 %	12.00	A- (3.74)	B+ (3.48)
+Jernigan, Terry Lynne	COGS 107C - Cognitive Neuroscience (A)	SP10	139	69	86.8 %	82.1 %	4.03	A- (3.79)	B+ (3.43)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SP10	148	71	97.1 %	95.7 %	3.64	B+ (3.31)	B (3.12)
+De Sa, Virginia	COGS 118B - Natural Computation II (A)	SP10	9	5	80.0 %	80.0 %	2.90	A (4.00)	N/A
+Nunez, Rafael E	COGS 152 - Cognitive Foundations of Math (A)	SP10	42	13	69.2 %	84.6 %	4.50	B (3.17)	B (3.00)
+Creel, Sarah	COGS 156 - Language Development (A)	SP10	87	46	95.6 %	100.0 %	4.06	B+ (3.42)	B (3.17)
+Johnson, Christine M.	COGS 160 - Seminar on Special Topics (A)	SP10	8	5	100.0 %	100.0 %	6.10	A- (3.80)	N/A
+Saygin, Ayse P	COGS 160 - Seminar on Special Topics (B)	SP10	9	6	100.0 %	83.3 %	11.83	A- (3.75)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (C)	SP10	17	10	80.0 %	100.0 %	5.90	A (4.00)	N/A
+Yu, Angela J.	COGS 160 - Seminar on Special Topics (D)	SP10	5	4	100.0 %	100.0 %	8.00	A- (3.75)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP10	115	49	83.3 %	78.7 %	4.76	B (3.28)	B- (2.77)
+Pineda, Jaime A	COGS 174 - Drugs: Brain, Mind and Culture (A)	SP10	156	78	97.4 %	92.2 %	4.58	B+ (3.44)	B- (2.92)
+Marx, Susan S	COGS 18 - Intr/C Programming/Cogntv Modl (A)	SP10	83	46	63.0 %	66.7 %	6.37	B (3.12)	C+ (2.48)
+Kirsh, David Joel	COGS 187B - Cogn Aspct/Multimedia DesignII (A)	SP10	32	21	95.2 %	95.2 %	6.69	A (4.00)	B+ (3.67)
+Belew, Richard K	COGS 188 - Representation,Search&the Web (A)	SP10	14	10	70.0 %	80.0 %	9.90	B (3.20)	N/A
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	SP10	168	64	87.1 %	91.9 %	4.66	B+ (3.57)	B+ (3.41)
+Coulson, Seana M	COGS 87 - Freshman Seminar (B)	SP10	18	12	90.9 %	90.9 %	0.50	A (4.00)	N/A
+Kutas, Marta	COGS 91 - SCANS Presents (A)	SP10	15	8	100.0 %	100.0 %	1.00	N/A	N/A
+Belew, Richard K	COGS 1 - Introduction to Cognitive Sci (A)	WI10	187	143	84.6 %	79.6 %	3.33	B+ (3.62)	B (3.11)
+Creel, Sarah	COGS 101B - Learning, Memory and Attention (A)	WI10	140	53	84.9 %	79.2 %	4.20	B+ (3.37)	B (3.09)
+Hutchins, Edwin Lee	COGS 102B - Cognitive Ethnography (A)	WI10	143	55	75.9 %	81.5 %	5.97	B+ (3.50)	B (3.08)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI10	159	55	92.6 %	90.7 %	4.69	B+ (3.54)	B (3.15)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	WI10	187	80	93.7 %	86.1 %	4.18	B+ (3.43)	B- (2.75)
+Stiles, Joan	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	WI10	68	35	74.3 %	85.7 %	5.99	B+ (3.31)	C+ (2.61)
+Yu, Angela J.	COGS 118A - Natural Computation I (A)	WI10	12	6	40.0 %	40.0 %	17.83	B+ (3.33)	N/A
+Hollan, James D.	COGS 120 - Human Computer Interaction (A)	WI10	65	31	83.9 %	80.6 %	4.69	B (3.24)	B (3.20)
+Nunez, Rafael E	COGS 14 - Design & Analysis of Expermnts (A)	WI10	116	46	67.4 %	75.6 %	3.89	B (3.09)	B- (2.96)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	WI10	37	20	90.0 %	95.0 %	5.00	B+ (3.44)	B (3.27)
+Cooperrider, Kensy A	COGS 155 - Gesture and Cognition (A)	WI10	35	17	100.0 %	100.0 %	4.15	B+ (3.63)	B (3.05)
+Johnson, Christine M.	COGS 160 - Seminar on Special Topics (A)	WI10	9	4	100.0 %	100.0 %	8.50	A (4.00)	N/A
+Kirsh, David Joel	COGS 160 - Seminar on Special Topics (B)	WI10	7	3	100.0 %	100.0 %	9.83	B+ (3.67)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (C)	WI10	13	4	100.0 %	100.0 %	3.50	A (4.00)	N/A
+Pineda, Jaime A	COGS 17 - Neurobiology of Cognition (A)	WI10	102	44	84.1 %	86.4 %	4.14	B+ (3.44)	B (3.03)
+Chiba, Andrea	COGS 172 - Brain Disorders and Cognition (A)	WI10	34	16	93.8 %	62.5 %	3.38	B+ (3.47)	A- (3.74)
+Marx, Susan S	COGS 18 - Intr/C Programming/Cogntv Modl (A)	WI10	74	37	81.1 %	86.5 %	6.93	B (3.06)	B- (2.75)
+Belew, Richard K	COGS 184 - Modeling/Evolution of Cognitn (A)	WI10	12	5	80.0 %	100.0 %	8.50	B (3.25)	N/A
+Kirsh, David Joel	COGS 187A - Cogntv Aspct/Multimedia Design (A)	WI10	33	13	100.0 %	100.0 %	8.19	A- (3.83)	B+ (3.67)
+Boyle, Mary E. T.	COGS 3 - An Introduction to Computing (A)	WI10	147	49	85.7 %	73.5 %	4.76	B+ (3.67)	B+ (3.54)
+Kirsh, David Joel	COGS 87 - Freshman Seminar (A)	WI10	11	6	100.0 %	80.0 %	0.50	N/A	N/A
+Kutas, Marta	COGS 91 - SCANS Presents (A)	WI10	14	9	100.0 %	88.9 %	0.94	N/A	N/A
+Nitz, Douglas A.	COGS 1 - Introduction to Cognitive Sci (A)	FA09	215	82	95.1 %	87.8 %	3.02	A- (3.82)	B+ (3.61)
+Johnson, Christine M.	COGS 101A - Sensation and Perception (A)	FA09	157	118	93.2 %	92.3 %	4.19	B+ (3.44)	B- (2.88)
+Hutchins, Edwin Lee	COGS 102A - Distributed Cognition (A)	FA09	154	78	68.8 %	87.0 %	5.03	B+ (3.46)	B (3.21)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA09	168	112	90.9 %	89.3 %	5.40	B (3.16)	B- (2.83)
+De Sa, Virginia	COGS 109 - Modeling & Data Analysis (A)	FA09	145	73	40.8 %	47.8 %	5.51	B (3.24)	B+ (3.34)
+Barrera, Steven James	COGS 11 - Minds & Brains (A)	FA09	181	117	100.0 %	100.0 %	3.22	B+ (3.53)	B+ (3.47)
+Deak, Gedeon O.	COGS 110 - The Developing Mind (A)	FA09	57	43	58.1 %	65.1 %	4.59	B (3.05)	B (3.00)
+Nunez, Rafael E	COGS 14 - Design & Analysis of Expermnts (A)	FA09	26	15	40.0 %	100.0 %	3.17	B (3.08)	C (2.23)
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	FA09	18	17	88.2 %	94.1 %	5.09	B+ (3.69)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	FA09	7	5	100.0 %	100.0 %	4.90	A (4.00)	N/A
+Johnson, Christine M.	COGS 160 - Seminar on Special Topics (B)	FA09	11	13	100.0 %	100.0 %	8.33	A (4.00)	N/A
+Creel, Sarah	COGS 160 - Seminar on Special Topics (C)	FA09	5	5	100.0 %	100.0 %	4.90	B (3.25)	N/A
+Boyle, Mary E. T.	COGS 17 - Neurobiology of Cognition (A)	FA09	123	81	87.3 %	94.9 %	4.48	B+ (3.46)	B- (2.99)
+Marx, Susan S	COGS 18 - Intr/C Programming/Cogntv Modl (A)	FA09	76	56	84.9 %	75.9 %	4.71	B+ (3.55)	B (3.20)
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	FA09	123	55	96.2 %	94.4 %	3.65	A- (3.76)	B (3.23)
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	FA09	21	18	88.9 %	100.0 %	0.72	A (4.00)	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (D)	FA09	21	18	88.9 %	88.9 %	0.62	A- (3.80)	N/A
+Coulson, Seana M	COGS 101C - Language (A)	SU09	34	14	64.3 %	71.4 %	5.21	B+ (3.36)	N/A
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SU09	17	3	100.0 %	100.0 %	6.50	B+ (3.33)	N/A
+Coulson, Seana M	COGS 151 - Analogy and Conceptual Systems (A)	SU09	14	6	66.7 %	100.0 %	7.83	B+ (3.67)	N/A
+McQuire, Marguerite	COGS 154 - Comm Disorders/Children&Adults (A)	SU09	65	31	90.3 %	80.6 %	5.85	B+ (3.68)	N/A
+Cooperrider, Kensy A	COGS 160 - Seminar on Special Topics (A)	SU09	12	8	100.0 %	100.0 %	5.75	B+ (3.63)	N/A
+Allison, Brendan	COGS 160 - Seminar on Special Topics (B)	SU09	12	5	100.0 %	100.0 %	8.50	B (3.20)	N/A
+Allison, Brendan	COGS 17 - Neurobiology of Cognition (A)	SU09	23	5	100.0 %	100.0 %	4.10	B (3.25)	N/A
+Mullane, Mary D.	COGS 172 - Brain Disorders and Cognition (A)	SU09	15	9	100.0 %	77.8 %	5.83	A- (3.78)	N/A
+Gupta, Anjum	COGS 18 - Intr/C Programming/Cogntv Modl (A)	SU09	22	15	86.7 %	100.0 %	7.17	B+ (3.53)	N/A
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	SU09	27	12	91.7 %	100.0 %	4.50	A- (3.92)	N/A
+Deak, Gedeon O.	COGS 1 - Introduction to Cognitive Sci (A)	SP09	189	93	64.5 %	78.5 %	3.19	B (3.14)	B- (2.95)
+Hutchins, Edwin Lee	COGS 10 - Cognitv Consequence/Technology (A)	SP09	40	26	88.5 %	92.3 %	2.81	B+ (3.40)	B (3.19)
+Creel, Sarah	COGS 101B - Learning, Memory and Attention (A)	SP09	174	74	89.2 %	90.4 %	4.07	B+ (3.44)	B (3.04)
+Kirsh, David Joel	COGS 102C - Cognitive Design Studio (A)	SP09	59	42	95.1 %	86.8 %	9.26	A- (3.83)	B+ (3.61)
+Jernigan, Terry Lynne	COGS 107C - Cognitive Neuroscience (A)	SP09	146	60	98.1 %	92.5 %	3.78	A- (3.76)	B (3.19)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SP09	187	111	97.2 %	92.6 %	3.73	B+ (3.60)	B+ (3.35)
+De Sa, Virginia	COGS 118B - Natural Computation II (A)	SP09	9	8	100.0 %	100.0 %	7.00	B+ (3.43)	N/A
+Groppe, David Martin	COGS 14 - Design & Analysis of Expermnts (A)	SP09	109	69	79.4 %	85.3 %	3.31	B+ (3.36)	B- (2.94)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (B)	SP09	6	5	100.0 %	100.0 %	4.90	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SP09	82	51	80.4 %	88.2 %	3.68	B (3.25)	B- (2.74)
+Kutas, Marta	COGS 179 - Electrophysiology of Cognition (A)	SP09	25	25	92.0 %	100.0 %	6.42	B+ (3.65)	B (3.16)
+Marx, Susan S	COGS 18 - Intr/C Programming/Cogntv Modl (A)	SP09	81	36	80.6 %	71.4 %	4.94	B (3.29)	B- (2.75)
+Belew, Richard K	COGS 184 - Modeling/Evolution of Cognitn (A)	SP09	12	10	90.0 %	80.0 %	5.90	B+ (3.33)	N/A
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	SP09	147	57	91.2 %	94.7 %	3.59	B+ (3.68)	B+ (3.36)
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (B)	SP09	9	7	71.4 %	85.7 %	1.64	N/A	N/A
+De Sa, Virginia	COGS 91 - SCANS Presents (A)	SP09	3	3	100.0 %	100.0 %	0.50	N/A	N/A
+Yu, Angela J.	COGS 1 - Introduction to Cognitive Sci (A)	WI09	202	124	78.2 %	81.9 %	3.02	B (3.25)	N/A
+Groppe, David Martin	COGS 101A - Sensation and Perception (A)	WI09	187	98	95.8 %	90.6 %	4.85	B+ (3.41)	B- (2.83)
+Johnson, Christine M.	COGS 102B - Cognitive Ethnography (A)	WI09	128	95	55.8 %	73.7 %	9.08	B+ (3.69)	B (3.27)
+Nitz, Douglas A.	COGS 107B - Systems Neuroscience (A)	WI09	177	75	90.0 %	68.6 %	4.80	B+ (3.33)	C+ (2.68)
+Stiles, Joan	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	WI09	51	29	86.2 %	86.2 %	4.09	B (3.07)	B- (2.75)
+Yu, Angela J.	COGS 118A - Natural Computation I (A)	WI09	7	9	100.0 %	55.6 %	11.50	B (3.29)	N/A
+Hollan, James D.	COGS 121 - Human Comptr Interaction Progr (A)	WI09	45	28	100.0 %	96.3 %	6.50	B+ (3.52)	B (3.17)
+Groppe, David Martin	COGS 14 - Design & Analysis of Expermnts (A)	WI09	108	67	84.6 %	92.3 %	3.92	A- (3.70)	B (3.02)
+Creel, Sarah	COGS 160 - Seminar on Special Topics (D)	WI09	5	5	100.0 %	100.0 %	3.70	A- (3.75)	N/A
+Boyle, Mary E. T.	COGS 17 - Neurobiology of Cognition (A)	WI09	129	85	92.9 %	98.8 %	3.51	B+ (3.39)	B- (2.97)
+Pineda, Jaime A	COGS 174 - Drugs: Brain, Mind and Culture (A)	WI09	87	49	98.0 %	91.8 %	3.81	B+ (3.52)	B- (2.85)
+Marx, Susan S	COGS 18 - Intr/C Programming/Cogntv Modl (A)	WI09	48	28	70.4 %	85.2 %	4.64	B+ (3.44)	B (3.24)
+Kirsh, David Joel	COGS 187A - Cogntv Aspct/Multimedia Design (A)	WI09	31	18	88.9 %	83.3 %	6.61	A- (3.78)	B+ (3.58)
+Belew, Richard K	COGS 188 - Representation,Search&the Web (A)	WI09	11	9	100.0 %	100.0 %	5.83	B (3.25)	N/A
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	WI09	126	44	90.9 %	90.9 %	3.64	B+ (3.63)	B+ (3.33)
+Belew, Richard K	COGS 8 - Hands-On Computing (A)	WI09	4	3	33.3 %	66.7 %	9.83	B+ (3.67)	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (B)	WI09	23	11	90.9 %	90.9 %	1.05	A (4.00)	N/A
+Deak, Gedeon O.	COGS 87 - Freshman Seminar (C)	WI09	15	13	100.0 %	100.0 %	1.27	N/A	N/A
+Pineda, Jaime A	COGS 87 - Freshman Seminar (D)	WI09	17	16	93.8 %	100.0 %	0.75	A (4.00)	N/A
+Kutas, Marta	COGS 91 - SCANS Presents (A)	WI09	7	3	100.0 %	100.0 %	0.50	N/A	N/A
+Creel, Sarah	COGS 1 - Introduction to Cognitive Sci (A)	FA08	234	149	89.7 %	87.0 %	2.51	B (3.27)	B- (2.86)
+Nunez, Rafael E	COGS 101C - Language (A)	FA08	89	71	62.9 %	93.0 %	4.30	B (3.21)	C+ (2.58)
+Forster, Deborah	COGS 102A - Distributed Cognition (A)	FA08	140	91	49.4 %	51.1 %	4.39	B+ (3.55)	B+ (3.33)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA08	187	142	93.4 %	95.6 %	6.21	B+ (3.31)	B- (2.86)
+De Sa, Virginia	COGS 109 - Modeling & Data Analysis (A)	FA08	118	77	36.8 %	37.8 %	5.19	B (3.09)	B (3.27)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	FA08	176	125	97.6 %	99.2 %	3.44	A- (3.71)	A- (3.70)
+Hollan, James D.	COGS 120 - Human Computer Interaction (A)	FA08	50	34	94.1 %	94.1 %	4.09	B+ (3.39)	B (3.10)
+Nunez, Rafael E	COGS 14 - Design & Analysis of Expermnts (A)	FA08	41	15	73.3 %	93.3 %	2.77	B+ (3.43)	C+ (2.56)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	FA08	37	26	92.3 %	88.5 %	5.83	B (3.20)	B+ (3.33)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	FA08	14	10	100.0 %	100.0 %	7.70	A- (3.88)	N/A
+Pineda, Jaime A	COGS 17 - Neurobiology of Cognition (A)	FA08	136	79	91.8 %	90.7 %	3.75	B+ (3.52)	B- (2.94)
+Gupta, Anjum	COGS 18 - Intr/C Programming/Cogntv Modl (A)	FA08	74	19	73.7 %	89.5 %	5.55	B+ (3.31)	B (3.02)
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	FA08	111	68	86.8 %	89.6 %	3.74	A- (3.83)	B (3.27)
+Kutas, Marta	COGS 91 - SCANS Presents (A)	FA08	16	11	100.0 %	100.0 %	0.50	A (4.00)	N/A
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SU08	18	17	94.1 %	100.0 %	6.50	B+ (3.56)	N/A
+Cummings, Alycia Erin	COGS 154 - Comm Disorders/Children&Adults (A)	SU08	56	54	100.0 %	98.1 %	4.24	B+ (3.67)	N/A
+Creel, Sarah	COGS 160 - Seminar on Special Topics (B)	SU08	15	15	100.0 %	100.0 %	5.17	B+ (3.53)	N/A
+Pineda, Jaime A	COGS 160 - Seminar on Special Topics (B)	SU08	14	8	100.0 %	100.0 %	5.50	B+ (3.38)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	SU08	30	20	100.0 %	95.0 %	5.30	A- (3.72)	N/A
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	SU08	18	18	100.0 %	100.0 %	3.06	B+ (3.47)	N/A
+Sweeney, Kim	COGS 1 - Introduction to Cognitive Sci (A)	SP08	166	66	87.3 %	78.7 %	3.44	B+ (3.40)	B- (2.81)
+Coulson, Seana M	COGS 101C - Language (A)	SP08	150	70	69.1 %	69.1 %	3.96	B+ (3.42)	B- (2.99)
+Hollan, James D.	COGS 102C - Cognitive Engineering (A)	SP08	94	58	87.7 %	94.7 %	10.57	A- (3.77)	A- (3.73)
+Groppe, David Martin	COGS 107C - Cognitive Neuroscience (A)	SP08	86	49	83.0 %	61.7 %	5.00	B (3.30)	B (3.06)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	SP08	126	88	100.0 %	95.4 %	2.94	A- (3.75)	B+ (3.44)
+Nunez, Rafael E	COGS 14 - Design & Analysis of Expermnts (A)	SP08	94	64	55.0 %	98.3 %	3.96	B- (2.98)	C (2.08)
+Creel, Sarah	COGS 156 - Language Development (A)	SP08	64	40	100.0 %	97.5 %	3.10	B+ (3.55)	B (3.07)
+Marx, Susan S	COGS 18 - Intr/C Programming/Cogntv Modl (A)	SP08	91	49	75.5 %	81.6 %	7.23	B+ (3.37)	B- (2.87)
+Johnson, Christine M.	COGS 184 - Modeling/Evolution of Cognitn (A)	SP08	19	16	93.8 %	93.8 %	6.38	B+ (3.62)	N/A
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	SP08	171	85	89.2 %	84.3 %	3.21	B+ (3.70)	B+ (3.36)
+Paparello, Silvia	COGS 1 - Introduction to Cognitive Sci (A)	WI08	166	75	62.7 %	57.5 %	3.33	B (3.21)	B (3.12)
+Becvar, Laura A.	COGS 10 - Cognitv Consequence/Technology (A)	WI08	41	28	78.6 %	75.0 %	2.93	B+ (3.46)	B+ (3.40)
+Creel, Sarah	COGS 101B - Learning, Memory and Attention (A)	WI08	126	81	92.6 %	93.8 %	4.01	B+ (3.44)	B- (2.93)
+Hutchins, Edwin Lee	COGS 102B - Cognitive Ethnography (A)	WI08	133	70	79.7 %	94.2 %	5.95	B+ (3.34)	B- (3.00)
+Filimon, Flavia	COGS 107B - Systems Neuroscience (A)	WI08	112	74	90.1 %	73.2 %	4.26	B (3.28)	C+ (2.53)
+Boyle, Mary E. T.	COGS 11 - Minds & Brains (A)	WI08	152	89	96.6 %	97.7 %	3.60	B+ (3.50)	B+ (3.60)
+Stiles, Joan	COGS 115 - Neurologcl Devlp & Cogntv Chng (A)	WI08	32	23	87.0 %	91.3 %	4.59	B+ (3.30)	B- (2.85)
+Hollan, James D.	COGS 121 - Human Comptr Interaction Progr (A)	WI08	39	24	95.8 %	91.7 %	5.42	B+ (3.54)	B+ (3.58)
+Groppe, David Martin	COGS 14 - Design & Analysis of Expermnts (A)	WI08	101	62	71.0 %	91.9 %	3.11	B+ (3.46)	B (3.01)
+Johnson, Christine M.	COGS 143 - Animal Cognition (A)	WI08	33	29	100.0 %	100.0 %	4.57	B+ (3.57)	B+ (3.53)
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (C)	WI08	11	10	100.0 %	100.0 %	5.70	A- (3.86)	N/A
+Pineda, Jaime A	COGS 17 - Neurobiology of Cognition (A)	WI08	130	78	92.2 %	90.9 %	4.32	B+ (3.44)	B (3.08)
+Pineda, Jaime A	COGS 175 - Alternate States/Consciousness (A)	WI08	34	15	85.7 %	100.0 %	7.30	B+ (3.40)	B (3.10)
+Yu, Hsinhao	COGS 25 - Introduction/Web Programming (A)	WI08	11	7	100.0 %	100.0 %	3.17	B+ (3.43)	N/A
+Boyle, Mary E. T.	COGS 3 - Introduction to Computing (A)	WI08	199	117	92.0 %	97.3 %	2.90	A- (3.73)	B+ (3.68)
+Gupta, Anjum	COGS 8 - Hands-On Computing (A)	WI08	13	14	92.9 %	92.9 %	4.96	B+ (3.62)	N/A
+Nunez, Rafael E	COGS 1 - Introduction to Cognitive Sci (A)	FA07	237	110	90.9 %	98.2 %	3.30	B+ (3.34)	C+ (2.52)
+Groppe, David Martin	COGS 101A - Sensation and Perception (A)	FA07	117	70	95.6 %	79.1 %	4.73	B+ (3.32)	C+ (2.68)
+Hutchins, Edwin Lee	COGS 102A - Distributed Cognition (A)	FA07	148	88	75.9 %	95.2 %	4.57	B+ (3.38)	B (3.08)
+Pineda, Jaime A	COGS 107A - Neuroanatomy and Physiology (A)	FA07	150	91	92.0 %	95.5 %	5.26	B (3.28)	B- (2.82)
+Simpkins, Charles Alexander	COGS 109 - Modeling & Data Analysis (A)	FA07	103	53	75.0 %	98.1 %	6.15	B+ (3.52)	B+ (3.34)
+Hollan, James D.	COGS 120 - Human Computer Interaction (A)	FA07	53	27	88.9 %	96.3 %	3.83	B+ (3.65)	B+ (3.38)
+Nunez, Rafael E	COGS 152 - Cognitive Foundations of Math (A)	FA07	17	12	75.0 %	100.0 %	4.17	A- (3.70)	N/A
+Deak, Gedeon O.	COGS 160 - Seminar on Special Topics (A)	FA07	8	5	100.0 %	100.0 %	7.30	A (4.00)	N/A
+Johnson, Christine M.	COGS 17 - Neurobiology of Cognition (A)	FA07	114	70	84.1 %	88.4 %	4.41	B (3.19)	C+ (2.62)
+Marx, Susan S	COGS 18 - Intr/C Programming/Cogntv Modl (A)	FA07	90	39	78.9 %	97.2 %	5.29	B+ (3.51)	B- (2.93)
+Wallen, Mark R.	COGS 3 - Introduction to Computing (A)	FA07	104	54	86.5 %	92.3 %	3.31	B+ (3.50)	B (3.16)
+Kutas, Marta	COGS 91 - SCANS Presents (A)	FA07	15	14	100.0 %	100.0 %	0.50	N/A	N/A
+Becvar, Laura A.	COGS 10 - Cognitv Consequence/Technology (A)	SU07	12	6	100.0 %	100.0 %	5.70	B+ (3.50)	N/A
+Robinson, Alan E.	COGS 101B - Learning, Memory and Attention (A)	SU07	24	19	84.2 %	66.7 %	6.61	B (3.26)	N/A
+Groppe, David M	COGS 14 - Design & Analysis of Expermnts (A)	SU07	20	15	93.3 %	100.0 %	3.17	B+ (3.62)	N/A
+Pineda, Jaime A	COGS 160 - Seminar on Special Topics (A)	SU07	10	6	100.0 %	100.0 %	9.17	A- (3.80)	N/A
+Pineda, Jaime A	COGS 17 - Neurobiology of Cognition (A)	SU07	21	17	94.1 %	100.0 %	5.44	B+ (3.57)	N/A
