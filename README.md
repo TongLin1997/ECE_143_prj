@@ -1,1 +1,3 @@
-# ECE_143_prj
+# ECE 143 Project
+# Team 5
+
