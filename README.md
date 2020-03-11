@@ -1,3 +1,1 @@
-# ECE 143 Project
-# Team 5
-
+# ECE 143 Project: Class Search System Based on Keywords and CAPE Reviews
