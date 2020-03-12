@@ -1,12 +1,20 @@
 # ECE 143 Project Goup 5: Class Search System Based on Keywords and CAPE Reviews 
 
-group members:
+## group members:
+Group members:
 
-overview
+|Name|Email|
+|---|---|
+|Linyan Zheng|l5zheng@ucsd.edu|
+|Linyan Zheng|l5zheng@ucsd.edu|
+|Linyan Zheng|l5zheng@ucsd.edu|
+|Linyan Zheng|l5zheng@ucsd.edu|
 
-packages that need to be installed
+## overview
 
-File Structure
+## packages that need to be installed
+
+## File Structure
 
 
 
