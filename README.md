@@ -9,7 +9,7 @@ Group members:
 |Mikhail Kardash|XXXX@ucsd.edu|
 |Jiabei Han|XXXX@ucsd.edu|
 |Linyan Zheng|l5zheng@ucsd.edu|
-|Tong Lin|XXXX@ucsd.edu|
+|Tong Lin|tol009@ucsd.edu|
 
 ## Presentation
 
