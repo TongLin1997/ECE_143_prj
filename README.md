@@ -6,14 +6,14 @@ Group members:
 
 |Name|Email|
 |---|---|
+|Mikhail Kardash|XXXX@ucsd.edu|
+|Jiabei Han|XXXX@ucsd.edu|
 |Linyan Zheng|l5zheng@ucsd.edu|
-|Linyan Zheng|l5zheng@ucsd.edu|
-|Linyan Zheng|l5zheng@ucsd.edu|
-|Linyan Zheng|l5zheng@ucsd.edu|
+|Tong Lin|XXXX@ucsd.edu|
 
 ## Presentation
 
-You can view our presentation by click here 
+You can view our presentation by click here https://github.com/TongLin1997/ECE_143_prj/blob/master/Presentation.pdf
 
 ## packages that need to be installed
 
