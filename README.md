@@ -35,10 +35,17 @@ raw_data/
     ECE_CAPE.txt
     ECE_Description.txt
     MATH_CAPE.txt
-    MATH_Description.txt    
-src/
+    MATH_Description.txt 
     
-
+src/
+    GPA_best_course.py
+    GPA_best_time.py
+    GPA_by_department.py
+    GPA_by_professor.py	
+    TIME_by_professor.py
+    class.py
+    ...
+    
 XXXX.ipynb
 Presentation.pdf
 README.md
