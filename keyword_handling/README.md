@@ -1,6 +1,6 @@
-#Keyword Handling Scripts
+# Keyword Handling Scripts
 
-##Run order
+## Run order
 
 Make sure to have the entire repository downloaded. This especially includes the "raw_data" folder.
 
@@ -16,7 +16,7 @@ Steps 1,2 are not necessary if the user chooses to use the provided .pkl files.
 
 Step 3 is also not required for the visualizations.
 
-##Additional Notes
+## Additional Notes
 
 Department.py and tokenizer.py are data structures that are used to handle data from the "raw_data" folder
 
