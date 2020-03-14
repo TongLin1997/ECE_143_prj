@@ -17,12 +17,21 @@ You can view our presentation by click here https://github.com/TongLin1997/ECE_1
 
 ## packages that need to be installed
 
+```
 numpy
+
 re
+
 nltk
+
 graphviz
+
 plotly
+
 pandas
+
+pickle
+```
 
 ## File Structure
 
@@ -44,9 +53,6 @@ src/
     GPA_by_professor.py	
     TIME_by_professor.py
     class.py
-    ...
-    
-keyword_handling/
     Department.py
     create_container_structures.py
     generate_pie_plots_per_dept.py
@@ -58,8 +64,9 @@ keyword_handling/
     departments.pkl
     machine_learning_classes.pkl
     uniques_per_dept.pkl
-    
-XXXX.ipynb
+
+Final_proj.html
+Final_proj.ipynb
 Presentation.pdf
 README.md
 ```
@@ -71,9 +78,9 @@ README.md
 2.download all eight files in "raw_data" folder  (COGS_CAPE.txt, COGS_Description.txt, CSE_CAPE.txt, CSE_Description.txt, ECE_CAPE.txt, ECE_Description.txt, MATH_CAPE.txt, MATH_Description.txt) Download 
 uniques_per_dept.pkl from the "keyword_handling" folder.
 
-3.download XXXX.ipynb and put it on the same path as eight files
+3.download Final_proj.ipynb and put it on the same path as eight files
 
-4.open XXXX.ipynb in Jupter Notebook and run from the first cell.
+4.open Final_proj.ipynb in Jupter Notebook and run from the first cell.
 
 
 
