@@ -1,6 +1,6 @@
 # ECE 143 Project Goup 5: Class Search System Based on Keywords and CAPE Reviews 
 
-## group members:
+## Group Members:
 
 Group members:
 
@@ -15,7 +15,7 @@ Group members:
 
 You can view our presentation by click here https://github.com/TongLin1997/ECE_143_prj/blob/master/Presentation.pdf
 
-## packages that need to be installed
+## Packages that need to be installed
 
 ```
 numpy
@@ -71,7 +71,7 @@ Presentation.pdf
 README.md
 ```
 
-## how to run
+## How to Run
 
 ### option1 
 ```
