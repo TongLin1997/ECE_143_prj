@@ -7,7 +7,7 @@ Group members:
 |Name|Email|
 |---|---|
 |Mikhail Kardash|mkardash@ucsd.edu|
-|Jiabei Han|XXXX@ucsd.edu|
+|Jiabei Han|jih043@ucsd.edu|
 |Linyan Zheng|l5zheng@ucsd.edu|
 |Tong Lin|tol009@ucsd.edu|
 
