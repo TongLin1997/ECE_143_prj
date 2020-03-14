@@ -13,7 +13,8 @@ Group members:
 
 ## Visualization
 
-Since we adopted plotly to genarate out pictures, you may not be able to see the pictures by opening Final_proj.ipynb on github. However, Final_proj.html works. You can view Final_proj.htm https://github.com/TongLin1997/ECE_143_prj/blob/master/Final_proj.html or download it and open it in chrome.
+Since we adopted plotly to genarate out pictures, you may not be able to see the pictures by opening Final_proj.ipynb on github. 
+However, Final_proj.html works. You can view Final_proj.html by click here https://github.com/TongLin1997/ECE_143_prj/blob/master/Final_proj.html or download it and open it in chrome.
 
 ## Presentation
 
